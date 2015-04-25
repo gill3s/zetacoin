@@ -40,7 +40,7 @@ Description: peer-to-peer network based digital currency - daemon
  .
 
  This package provides the daemon, bitcoind, and the CLI tool
- bitcoin-cli to interact with the daemon.
+ zetacoin-cli to interact with the daemon.
 
 Package: bitcoin-qt
 Architecture: any
