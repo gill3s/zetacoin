@@ -1,13 +1,13 @@
-<TS language="id_ID" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="id_ID" version="2.1">
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>Mengenai Bitcoin Core</translation>
+        <source>About Zetacoin Core</source>
+        <translation>Mengenai Zetacoin Core</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Bitcoin Core&lt;/b&gt; version</source>
-        <translation>versi &lt;b&gt;Bitcoin Core&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Zetacoin Core&lt;/b&gt; version</source>
+        <translation>versi &lt;b&gt;Zetacoin Core&lt;/b&gt;</translation>
     </message>
     <message>
         <source>
@@ -28,10 +28,14 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
         <translation>Copyright</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Pembangun Bitcoin Core</translation>
+        <source>The Zetacoin Core developers</source>
+        <translation>Pembangun Zetacoin Core</translation>
     </message>
-    </context>
+    <message>
+        <source>(%1-bit)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
 <context>
     <name>AddressBookPage</name>
     <message>
@@ -99,11 +103,11 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
         <translation>Alamat-alamat menerima</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Alamat-alamat Anda supaya mengirim pembayaran. Periksalah jumlah dan alamat penerima setiap kali Anda mengirim Bitcoin.</translation>
+        <source>These are your Zetacoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Alamat-alamat Anda supaya mengirim pembayaran. Periksalah jumlah dan alamat penerima setiap kali Anda mengirim Zetacoin.</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Zetacoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Alamat-alamat Anda supaya menerima pembayaran. Dianjurkan agar Anda menggunakan alamat menerima yang baru untuk setiap transaksi.</translation>
     </message>
     <message>
@@ -128,7 +132,7 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
     </message>
     <message>
         <source>There was an error trying to save the address list to %1.</source>
-        <translation>Ada kesalahan di dalam menyimpan susunan alamat ke %1.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -201,12 +205,16 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
         <translation>Konfirmasi enkripsi dompet</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZETACOINS&lt;/b&gt;!</source>
         <translation>Perhatian: Jika anda mengenkripsi dompet anda dan lupa kata kuncinya, anda pasti &lt;b&gt;KEHILANGAN SELURUH BITCOIN ANDA&lt;/B&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Apakah kamu yakin ingin mengenkripsi dompet anda?</translation>
+    </message>
+    <message>
+        <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Warning: The Caps Lock key is on!</source>
@@ -217,8 +225,8 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
         <translation>Dompet terenkripsi</translation>
     </message>
     <message>
-        <source>Bitcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin akan menutup untuk menyelesaikan proses enkripsi. Ingat bahwa dengan mengenkripsi dompet Anda tidak sepenuhnya melindungi bitcoin Anda dari perangkat lunak berbahaya yang menginfeksi komputer Anda.</translation>
+        <source>Zetacoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your zetacoins from being stolen by malware infecting your computer.</source>
+        <translation>Zetacoin akan menutup untuk menyelesaikan proses enkripsi. Ingat bahwa dengan mengenkripsi dompet Anda tidak sepenuhnya melindungi bitcoin Anda dari perangkat lunak berbahaya yang menginfeksi komputer Anda.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -288,8 +296,8 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
         <translation>Keluar dari aplikasi</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin</source>
-        <translation>Tampilkan informasi mengenai Bitcoin</translation>
+        <source>Show information about Zetacoin</source>
+        <translation>Tampilkan informasi mengenai Zetacoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -302,6 +310,10 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
     <message>
         <source>&amp;Options...</source>
         <translation>&amp;Pilihan...</translation>
+    </message>
+    <message>
+        <source>&amp;Encrypt Wallet...</source>
+        <translation>%Enkripsi Dompet...</translation>
     </message>
     <message>
         <source>&amp;Backup Wallet...</source>
@@ -332,12 +344,12 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
         <translation>Mengindex ulang block di harddisk...</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
-        <translation>Kirim koin ke alamat Bitcoin</translation>
+        <source>Send coins to a Zetacoin address</source>
+        <translation>Kirim koin ke alamat Zetacoin</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin</source>
-        <translation>Ubah pilihan konfigurasi untuk Bitcoin</translation>
+        <source>Modify configuration options for Zetacoin</source>
+        <translation>Ubah pilihan konfigurasi untuk Zetacoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -360,8 +372,8 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
         <translation>&amp;Verifikasi pesan...</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Zetacoin</source>
+        <translation>Zetacoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -388,12 +400,12 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
         <translation>Mengenkripsi kunci-kunci pribadi yang dipunyai dompetmu</translation>
     </message>
     <message>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Tandalah pesanan dengan alamat-alamat Bitcoin Anda supaya membuktikan pesanan itu dikirim oleh Anda</translation>
+        <source>Sign messages with your Zetacoin addresses to prove you own them</source>
+        <translation>Tandalah pesanan dengan alamat-alamat Zetacoin Anda supaya membuktikan pesanan itu dikirim oleh Anda</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Periksakan pesan-pesan supaya menjaminkan ditandatangani oleh alamat Bitcoin yang terperinci</translation>
+        <source>Verify messages to ensure they were signed with specified Zetacoin addresses</source>
+        <translation>Periksakan pesan-pesan supaya menjaminkan ditandatangani oleh alamat Zetacoin yang terperinci</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -416,16 +428,16 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Zetacoin Core</source>
+        <translation>Zetacoin Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Permintaan pembayaran (membangkitkan kode QR dan bitcoin: URIs)</translation>
+        <source>Request payments (generates QR codes and zetacoind: URIs)</source>
+        <translation>Permintaan pembayaran (membangkitkan kode QR dan zetacoind: URIs)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;Mengenai Bitcoin Core</translation>
+        <source>&amp;About Zetacoin Core</source>
+        <translation>&amp;Mengenai Zetacoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -436,28 +448,32 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
         <translation>Tampilkan daftar alamat dan label yang diterima</translation>
     </message>
     <message>
-        <source>Open a bitcoin: URI or payment request</source>
-        <translation>Buka URI bitcoin: atau permintaan pembayaran</translation>
+        <source>Open a zetacoind: URI or payment request</source>
+        <translation>Buka URI zetacoind: atau permintaan pembayaran</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;pilihan Perintah-baris</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Tampilkan pesan bantuan Bitcoin Core untuk memberikan daftar pilihan perintah-baris yang memungkinkan dalam aplikasi Bitcoin</translation>
+        <source>Show the Zetacoin Core help message to get a list with possible Zetacoin command-line options</source>
+        <translation>Tampilkan pesan bantuan Zetacoin Core untuk memberikan daftar pilihan perintah-baris yang memungkinkan dalam aplikasi Zetacoin</translation>
     </message>
     <message>
-        <source>Bitcoin client</source>
-        <translation>Klien Bitcoin</translation>
+        <source>Zetacoin client</source>
+        <translation>Klien Zetacoin</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n hubungan aktif ke jaringan Bitcoin</numerusform></translation>
+        <source>%n active connection(s) to Zetacoin network</source>
+        <translation><numerusform>%n hubungan aktif ke jaringan Zetacoin</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
         <translation>Sumber blok tidak tersedia...</translation>
+    </message>
+    <message>
+        <source>Processed %1 of %2 (estimated) blocks of transaction history.</source>
+        <translation>Proses % 1 dar i% 2 (perkiraan) blok catatan transaksi</translation>
     </message>
     <message>
         <source>Processed %1 blocks of transaction history.</source>
@@ -544,8 +560,8 @@ Alamat: %4
         <translation>Dompet saat ini &lt;b&gt;terenkripsi&lt;/b&gt; dan &lt;b&gt;terkunci&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
-        <translation>Terjadi kesalahan fatal. Bitcoin tidak bisa lagi meneruskan dengan aman dan akan berhenti.</translation>
+        <source>A fatal error occurred. Zetacoin can no longer continue safely and will quit.</source>
+        <translation>Terjadi kesalahan fatal. Zetacoin tidak bisa lagi meneruskan dengan aman dan akan berhenti.</translation>
     </message>
 </context>
 <context>
@@ -754,8 +770,8 @@ Alamat: %4
         <translation>Makin penting transaksinya, makin kemungkinan akan termasuk dalam blok.</translation>
     </message>
     <message>
-        <source>This label turns red, if the priority is smaller than "medium".</source>
-        <translation>Label ini akan berubah merah, jika prioritas lebih kecil dari "medium".</translation>
+        <source>This label turns red, if the priority is smaller than &quot;medium&quot;.</source>
+        <translation>Label ini akan berubah merah, jika prioritas lebih kecil dari &quot;medium&quot;.</translation>
     </message>
     <message>
         <source>This label turns red, if any recipient receives an amount smaller than %1.</source>
@@ -825,12 +841,12 @@ Alamat: %4
         <translation>Ubah alamat mengirim</translation>
     </message>
     <message>
-        <source>The entered address "%1" is already in the address book.</source>
-        <translation>Alamat yang dimasukkan "%1" sudah ada di dalam buku alamat.</translation>
+        <source>The entered address &quot;%1&quot; is already in the address book.</source>
+        <translation>Alamat yang dimasukkan &quot;%1&quot; sudah ada di dalam buku alamat.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>Alamat yang dimasukkan "%1" bukan alamat Bitcoin yang benar.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Zetacoin address.</source>
+        <translation>Alamat yang dimasukkan &quot;%1&quot; bukan alamat Zetacoin yang benar.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -867,12 +883,12 @@ Alamat: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core - Command-line options</source>
-        <translation>Bitcoin Core - pilihan Perintah-baris</translation>
+        <source>Zetacoin Core - Command-line options</source>
+        <translation>Zetacoin Core - pilihan Perintah-baris</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Zetacoin Core</source>
+        <translation>Zetacoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -891,18 +907,26 @@ Alamat: %4
         <translation>pilihan UI</translation>
     </message>
     <message>
-        <source>Set language, for example "de_DE" (default: system locale)</source>
-        <translation>Atur bahasa, sebagai contoh "id_ID" (standar: system locale)</translation>
+        <source>Set language, for example &quot;de_DE&quot; (default: system locale)</source>
+        <translation>Atur bahasa, sebagai contoh &quot;id_ID&quot; (standar: system locale)</translation>
     </message>
     <message>
         <source>Start minimized</source>
         <translation>Memulai terminimalisi</translation>
     </message>
     <message>
+        <source>Set SSL root certificates for payment request (default: -system-)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Show splash screen on startup (default: 1)</source>
         <translation>Tampilkan layar pembuka saat nyala (standar: 1)</translation>
     </message>
-    </context>
+    <message>
+        <source>Choose data directory on startup (default: 0)</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
 <context>
     <name>Intro</name>
     <message>
@@ -910,8 +934,16 @@ Alamat: %4
         <translation>Selamat Datang</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Selamat Datang ke Bitcoin Core</translation>
+        <source>Welcome to Zetacoin Core.</source>
+        <translation>Selamat Datang ke Zetacoin Core</translation>
+    </message>
+    <message>
+        <source>As this is the first time the program is launched, you can choose where Zetacoin Core will store its data.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Zetacoin Core will download and store a copy of the Zetacoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -922,12 +954,12 @@ Alamat: %4
         <translation>Menggunakan direktori data yang dipilih Anda:</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Zetacoin</source>
+        <translation>Zetacoin</translation>
     </message>
     <message>
-        <source>Error: Specified data directory "%1" can not be created.</source>
-        <translation>Gagal: Direktori untuk data "%1" tidak bisa dibuat.</translation>
+        <source>Error: Specified data directory &quot;%1&quot; can not be created.</source>
+        <translation>Gagal: Direktori untuk data &quot;%1&quot; tidak bisa dibuat.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -984,20 +1016,28 @@ Alamat: %4
         <translation>Bayar &amp;biaya transaksi</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin after logging in to the system.</source>
-        <translation>Menyalakan Bitcoin secara otomatis setelah masuk ke dalam sistem.</translation>
+        <source>Automatically start Zetacoin after logging in to the system.</source>
+        <translation>Menyalakan Zetacoin secara otomatis setelah masuk ke dalam sistem.</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin on system login</source>
-        <translation>&amp;Menyalakan Bitcoin pada login sistem</translation>
+        <source>&amp;Start Zetacoin on system login</source>
+        <translation>&amp;Menyalakan Zetacoin pada login sistem</translation>
+    </message>
+    <message>
+        <source>Size of &amp;database cache</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>MB</source>
         <translation>MB</translation>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a SOCKS proxy.</source>
-        <translation>Menghubungkan jaringan Bitcoin lewat proxy SOCKS.</translation>
+        <source>Number of script &amp;verification threads</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Connect to the Zetacoin network through a SOCKS proxy.</source>
+        <translation>Menghubungkan jaringan Zetacoin lewat proxy SOCKS.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS proxy (default proxy):</source>
@@ -1008,8 +1048,12 @@ Alamat: %4
         <translation>Alamat IP proxy (cth. IPv4: 127.0.0.1 / IPv6: ::1)</translation>
     </message>
     <message>
+        <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Third party transaction URLs</source>
-        <translation>Transaksi URLs pihak ketiga</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Active command-line options that override above options:</source>
@@ -1026,6 +1070,10 @@ Alamat: %4
     <message>
         <source>&amp;Network</source>
         <translation>&amp;Jaringan</translation>
+    </message>
+    <message>
+        <source>(0 = auto, &lt;0 = leave that many cores free)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>W&amp;allet</source>
@@ -1048,8 +1096,8 @@ Alamat: %4
         <translation>&amp;Perubahan saldo untuk transaksi yang belum dikonfirmasi</translation>
     </message>
     <message>
-        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Otomatis membuka port client Bitcoin di router. Hanya berjalan apabila router anda mendukung UPnP dan di-enable.</translation>
+        <source>Automatically open the Zetacoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Otomatis membuka port client Zetacoin di router. Hanya berjalan apabila router anda mendukung UPnP dan di-enable.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1104,8 +1152,8 @@ Alamat: %4
         <translation>&amp;Bahasa Antarmuka Pengguna:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin.</source>
-        <translation>Tampilan bahasa pengguna dapat diatur disini. Pengaturan ini akan berpengaruh setelah memulai kembali aplikasi Bitcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Zetacoin.</source>
+        <translation>Tampilan bahasa pengguna dapat diatur disini. Pengaturan ini akan berpengaruh setelah memulai kembali aplikasi Zetacoin.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1116,8 +1164,8 @@ Alamat: %4
         <translation>Pilihan standar unit yang ingin ditampilkan pada layar aplikasi dan saat mengirim koin.</translation>
     </message>
     <message>
-        <source>Whether to show Bitcoin addresses in the transaction list or not.</source>
-        <translation>Apakah menampilkan alamat-alamat Bitcoin dalam daftar transaksi atau tidak.</translation>
+        <source>Whether to show Zetacoin addresses in the transaction list or not.</source>
+        <translation>Apakah menampilkan alamat-alamat Zetacoin dalam daftar transaksi atau tidak.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1149,15 +1197,15 @@ Alamat: %4
     </message>
     <message>
         <source>Client restart required to activate changes.</source>
-        <translation>Restart klien diperlukan untuk mengaktifkan perubahan.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Client will be shutdown, do you want to proceed?</source>
-        <translation>Klien akan dimatikan, apakah anda hendak melanjutkan?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This change would require a client restart.</source>
-        <translation>Perubahan ini akan memerlukan restart klien</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The supplied proxy address is invalid.</source>
@@ -1171,8 +1219,8 @@ Alamat: %4
         <translation>Formulir</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informasi terlampir mungkin sudah kedaluwarsa. Dompet Anda secara otomatis mensinkronisasi dengan jaringan Bitcoin ketika sebuah hubungan terbentuk, namun proses ini belum selesai.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Zetacoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informasi terlampir mungkin sudah kedaluwarsa. Dompet Anda secara otomatis mensinkronisasi dengan jaringan Zetacoin ketika sebuah hubungan terbentuk, namun proses ini belum selesai.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1226,8 +1274,8 @@ Alamat: %4
         <translation>Penanganan URI</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation>URI tidak bisa dimengerti! Biasanya oleh karena alamat Bitcoin yang tidak sah atau persoalan tentang parameter-parameter URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Zetacoin address or malformed URI parameters.</source>
+        <translation>URI tidak bisa dimengerti! Biasanya oleh karena alamat Zetacoin yang tidak sah atau persoalan tentang parameter-parameter URI.</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
@@ -1238,8 +1286,32 @@ Alamat: %4
         <translation>Gagalan permintaan pembayaran</translation>
     </message>
     <message>
-        <source>Your active proxy doesn't support SOCKS5, which is required for payment requests via proxy.</source>
+        <source>Cannot start zetacoind: click-to-pay handler</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Net manager warning</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Your active proxy doesn&apos;t support SOCKS5, which is required for payment requests via proxy.</source>
         <translation>Proxy Anda tidak mendukung SOCKS5, yang diperlu untuk permintaan pembayaran melalui proxy.</translation>
+    </message>
+    <message>
+        <source>Payment request fetch URL is invalid: %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Payment request file handling</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Payment request file can not be read or processed! This can be caused by an invalid payment request file.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unverified payment requests to custom payment scripts are unsupported.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Refund from %1</source>
@@ -1248,6 +1320,10 @@ Alamat: %4
     <message>
         <source>Error communicating with %1: %2</source>
         <translation>Masalah berkomunikasi dengan %1: %2</translation>
+    </message>
+    <message>
+        <source>Payment request can not be parsed or processed!</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bad response from server %1</source>
@@ -1265,12 +1341,12 @@ Alamat: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Zetacoin</source>
+        <translation>Zetacoin</translation>
     </message>
     <message>
-        <source>Error: Specified data directory "%1" does not exist.</source>
-        <translation>Gagal: Tidak ada direktori untuk data "%1".</translation>
+        <source>Error: Specified data directory &quot;%1&quot; does not exist.</source>
+        <translation>Gagal: Tidak ada direktori untuk data &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>Error: Cannot parse configuration file: %1. Only use key=value syntax.</source>
@@ -1281,12 +1357,12 @@ Alamat: %4
         <translation>Gagal: Gabungan -regtest dan -testnet salah</translation>
     </message>
     <message>
-        <source>Bitcoin Core didn't yet exit safely...</source>
-        <translation>Inti Bitcoin belum keluar dengan sempurna...</translation>
+        <source>Zetacoin Core didn&apos;t yet exit safely...</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Masukkan alamat Bitcoin (cth. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Zetacoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Masukkan alamat Zetacoin (cth. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1407,16 +1483,16 @@ Alamat: %4
         <translation>Berkas catatan debug</translation>
     </message>
     <message>
-        <source>Open the Bitcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Buka berkas catatan debug Bitcoin dari direktori data sekarang. Hal ini dapat memakan waktu beberapa detik untuk berkas catatan yang besar.</translation>
+        <source>Open the Zetacoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Buka berkas catatan debug Zetacoin dari direktori data sekarang. Hal ini dapat memakan waktu beberapa detik untuk berkas catatan yang besar.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Bersihkan konsol</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin RPC console.</source>
-        <translation>Selamat datang ke konsol RPC Bitcoin.</translation>
+        <source>Welcome to the Zetacoin RPC console.</source>
+        <translation>Selamat datang ke konsol RPC Zetacoin.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1470,8 +1546,16 @@ Alamat: %4
         <translation>&amp;Pesan:</translation>
     </message>
     <message>
+        <source>Reuse one of the previously used receiving addresses. Reusing addresses has security and privacy issues. Do not use this unless re-generating a payment request made before.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>R&amp;euse an existing receiving address (not recommended)</source>
         <translation>Gunakan lagi alamat penerima yang ada (tidak disarankan)</translation>
+    </message>
+    <message>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Zetacoin network.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1691,6 +1775,10 @@ Alamat: %4
         <translation>Hapus informasi dari form.</translation>
     </message>
     <message>
+        <source>Clear &amp;All</source>
+        <translation>Hapus %Semua</translation>
+    </message>
+    <message>
         <source>Balance:</source>
         <translation>Saldo:</translation>
     </message>
@@ -1779,12 +1867,16 @@ Alamat: %4
         <translation>Gagal: Transaksi ditolak. Ini mungkin terjadi jika beberapa dari koin dalam dompet Anda telah digunakan, seperti ketika Anda menggunakan salinan wallet.dat dan beberapa koin telah dibelanjakan dalam salinan tersebut tetapi disini tidak tertandai sebagai terpakai.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Bitcoin address</source>
-        <translation>Awas: Alamat Bitcoin tidak sah</translation>
+        <source>Warning: Invalid Zetacoin address</source>
+        <translation>Awas: Alamat Zetacoin tidak sah</translation>
     </message>
     <message>
         <source>(no label)</source>
         <translation>(tidak ada label)</translation>
+    </message>
+    <message>
+        <source>Warning: Unknown change address</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure you want to send?</source>
@@ -1831,7 +1923,7 @@ Alamat: %4
     </message>
     <message>
         <source>This is a normal payment.</source>
-        <translation>Ini adalah pembayaran normal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1847,7 +1939,7 @@ Alamat: %4
     </message>
     <message>
         <source>Remove this entry</source>
-        <translation>Hapus masukan ini</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Message:</source>
@@ -1860,6 +1952,10 @@ Alamat: %4
     <message>
         <source>Enter a label for this address to add it to the list of used addresses</source>
         <translation>Masukkan label untuk alamat ini untuk dimasukan dalam daftar alamat yang pernah digunakan</translation>
+    </message>
+    <message>
+        <source>A message that was attached to the zetacoind: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Zetacoin network.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -1877,8 +1973,8 @@ Alamat: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
-        <translation>Bitcoin Core sementara dimatikan...</translation>
+        <source>Zetacoin Core is shutting down...</source>
+        <translation>Zetacoin Core sementara dimatikan...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1894,6 +1990,10 @@ Alamat: %4
     <message>
         <source>&amp;Sign Message</source>
         <translation>&amp;Tandakan Pesan</translation>
+    </message>
+    <message>
+        <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The address to sign the message with (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
@@ -1928,8 +2028,8 @@ Alamat: %4
         <translation>Salin tanda tangan terpilih ke sistem klipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation>Tandai pesan untuk menyetujui kamu pemiliki alamat Bitcoin ini</translation>
+        <source>Sign the message to prove you own this Zetacoin address</source>
+        <translation>Tandai pesan untuk menyetujui kamu pemiliki alamat Zetacoin ini</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1940,8 +2040,24 @@ Alamat: %4
         <translation>Hapus semua bidang penanda pesan</translation>
     </message>
     <message>
+        <source>Clear &amp;All</source>
+        <translation>Hapus %Semua</translation>
+    </message>
+    <message>
         <source>&amp;Verify Message</source>
         <translation>&amp;Verifikasi Pesan</translation>
+    </message>
+    <message>
+        <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>The address the message was signed with (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Verify the message to ensure it was signed with the specified Zetacoin address</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1952,12 +2068,12 @@ Alamat: %4
         <translation>Hapus semua bidang verifikasi pesan</translation>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Masukkan alamat Bitcoin (cth. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Zetacoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Masukkan alamat Zetacoin (cth. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Click "Sign Message" to generate signature</source>
-        <translation>Tekan "Tandatangan Pesan" untuk menghasilan tanda tangan</translation>
+        <source>Click &quot;Sign Message&quot; to generate signature</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The entered address is invalid.</source>
@@ -2011,12 +2127,12 @@ Alamat: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Zetacoin Core</source>
+        <translation>Zetacoin Core</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Pembangun Bitcoin Core</translation>
+        <source>The Zetacoin Core developers</source>
+        <translation>Pembangun Zetacoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2127,6 +2243,10 @@ Alamat: %4
     <message>
         <source>Merchant</source>
         <translation>Pedagang</translation>
+    </message>
+    <message>
+        <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Debug information</source>
@@ -2370,6 +2490,10 @@ Alamat: %4
         <translation>Proses Ekspor Gagal</translation>
     </message>
     <message>
+        <source>There was an error trying to save the transaction history to %1.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Exporting Successful</source>
         <translation>Proses Ekspor Berhasil</translation>
     </message>
@@ -2455,6 +2579,10 @@ Alamat: %4
         <translation>Cadangkgan Gagal</translation>
     </message>
     <message>
+        <source>There was an error trying to save the wallet data to %1.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>The wallet data was successfully saved to %1.</source>
         <translation>Informasi dalam dompet berhasil disimpan di %1.</translation>
     </message>
@@ -2482,12 +2610,12 @@ Alamat: %4
         <translation>Pilihan:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: bitcoin.conf)</source>
-        <translation>Tentukan berkas konfigurasi (standar: bitcoin.conf)</translation>
+        <source>Specify configuration file (default: zetacoin.conf)</source>
+        <translation>Tentukan berkas konfigurasi (standar: zetacoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: bitcoind.pid)</source>
-        <translation>Tentukan berkas pid (standar: bitcoind.pid)</translation>
+        <source>Specify pid file (default: zetacoind.pid)</source>
+        <translation>Tentukan berkas pid (standar: zetacoind.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -2518,12 +2646,20 @@ Alamat: %4
         <translation>Jumlah kedua untuk menjaga peer buruk dari hubung-ulang (standar: 86400)</translation>
     </message>
     <message>
+        <source>An error occurred while setting up the RPC port %u for listening on IPv4: %s</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 8332 or testnet: 18332)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Accept command line and JSON-RPC commands</source>
         <translation>Menerima perintah baris perintah dan JSON-RPC</translation>
     </message>
     <message>
-        <source>Bitcoin Core RPC client version</source>
-        <translation>Versi klien RPC Inti Bitcoin </translation>
+        <source>Zetacoin Core RPC client version</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
@@ -2538,20 +2674,91 @@ Alamat: %4
         <translation>Terima hubungan dari luar (standar: 1 kalau -proxy atau -connect tidak dipilih)</translation>
     </message>
     <message>
+        <source>%s, you must set a rpcpassword in the configuration file:
+%s
+It is recommended you use the following random password:
+rpcuser=zetacoinrpc
+rpcpassword=%s
+(you do not need to remember this password)
+The username and password MUST NOT be the same.
+If the file does not exist, create it with owner-readable-only file permissions.
+It is also recommended to set alertnotify so you are notified of problems;
+for example: alertnotify=echo %%s | mail -s &quot;Zetacoin Alert&quot; admin@foo.com
+</source>
+        <translation>
+</translation>
+    </message>
+    <message>
         <source>Acceptable ciphers (default: TLSv1.2+HIGH:TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!3DES:@STRENGTH)</source>
         <translation>Sandi yang diterima (biasanya: TLSv1.2+HIGH:TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!3DES:@STRENGTH)</translation>
+    </message>
+    <message>
+        <source>An error occurred while setting up the RPC port %u for listening on IPv6, falling back to IPv4: %s</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Continuously rate-limit free transactions to &lt;n&gt;*1000 bytes per minute (default:15)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter regression test mode, which uses a special chain in which blocks can be solved instantly. This is intended for regression testing tools and app development.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Enter regression test mode, which uses a special chain in which blocks can be solved instantly.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Error: Listening for incoming connections failed (listen returned error %d)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error: The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
         <translation>Gagal: Transaksi ditolak. Ini mungkin terjadi jika beberapa dari koin dalam dompet Anda telah digunakan, seperti ketika Anda menggunakan salinan wallet.dat dan beberapa koin telah dibelanjakan dalam salinan tersebut tetapi disini tidak tertandai sebagai terpakai.</translation>
     </message>
     <message>
+        <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
         <translation>Jalankan perintah ketika perubahan transaksi dompet (%s di cmd digantikan oleh TxID)</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
-        <translation>Tidak bisa mengikat dengan %s di computer ini. Kemungkinan Bitcoin Core sudah mulai.</translation>
+        <source>Fees smaller than this are considered zero fee (for transaction creation) (default:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: 100)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>How thorough the block verification of -checkblocks is (0-4, default: 3)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>In this mode -genproclimit controls how many blocks are generated immediately.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Set the number of script verification threads (%u to %d, 0 = auto, &lt;0 = leave that many cores free, default: %d)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Set the processor limit for when generation is on (-1 = unlimited, default: -1)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Unable to bind to %s on this computer. Zetacoin Core is probably already running.</source>
+        <translation>Tidak bisa mengikat dengan %s di computer ini. Kemungkinan Zetacoin Core sudah mulai.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: -proxy)</source>
@@ -2562,8 +2769,8 @@ Alamat: %4
         <translation>Peringatan: -paytxfee sangat besar! Ini adalah biaya pengiriman yang akan dibayar oleh Anda jika transaksi terkirim.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Bitcoin will not work properly.</source>
-        <translation>Perhatian: Mohon diperiksa pengaturan tanggal dan waktu komputer anda apakah sudah benar! Jika pengaturan waktu salah aplikasi Bitcoin tidak akan berjalan dengan tepat.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Zetacoin will not work properly.</source>
+        <translation>Perhatian: Mohon diperiksa pengaturan tanggal dan waktu komputer anda apakah sudah benar! Jika pengaturan waktu salah aplikasi Zetacoin tidak akan berjalan dengan tepat.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2578,6 +2785,10 @@ Alamat: %4
         <translation>Awas: wallet.dat tidak bisa dibaca! Berhasil periksakan kunci-kunci dalam arsipnya, tetapi ada kemungkinan informasi tentang transaksi atau isi-isi buku alamat salah atau terhilang.</translation>
     </message>
     <message>
+        <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>(default: 1)</source>
         <translation>(pengaturan awal: 1)</translation>
     </message>
@@ -2586,16 +2797,24 @@ Alamat: %4
         <translation>(pengaturan awal: wallet.dat)</translation>
     </message>
     <message>
+        <source>&lt;category&gt; can be:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Attempt to recover private keys from a corrupt wallet.dat</source>
         <translation>Coba memulihkan kunci-kunci pribadi dari wallet.dat yang rusak</translation>
     </message>
     <message>
-        <source>Bitcoin Core Daemon</source>
-        <translation>Daemon Bitcoin Core</translation>
+        <source>Zetacoin Core Daemon</source>
+        <translation>Daemon Zetacoin Core</translation>
     </message>
     <message>
         <source>Block creation options:</source>
         <translation>Pilihan pembuatan blok:</translation>
+    </message>
+    <message>
+        <source>Clear list of wallet transactions (diagnostic tool; implies -rescan)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Connect only to the specified node(s)</source>
@@ -2606,6 +2825,10 @@ Alamat: %4
         <translation>Hubungkan melalui proxy SOCKS</translation>
     </message>
     <message>
+        <source>Connect to JSON-RPC on &lt;port&gt; (default: 8332 or testnet: 18332)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Connection options:</source>
         <translation>Pilih koneksi:</translation>
     </message>
@@ -2614,12 +2837,20 @@ Alamat: %4
         <translation>Menemukan database blok yang rusak </translation>
     </message>
     <message>
+        <source>Debugging/Testing options:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Disable safemode, override a real safe mode event (default: 0)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
         <translation>Cari alamat IP Anda sendiri (biasanya: 1 saat mendengarkan dan -externalip tidak terpilih)</translation>
     </message>
     <message>
         <source>Do not load the wallet and disable wallet RPC calls</source>
-        <translation>Jangan memuat dompet dan menonaktifkan panggilan dompet RPC</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>
@@ -2654,6 +2885,10 @@ Alamat: %4
         <translation>Error: system error:</translation>
     </message>
     <message>
+        <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Failed to read block info</source>
         <translation>Gagal membaca informasi dari blok</translation>
     </message>
@@ -2683,7 +2918,7 @@ Alamat: %4
     </message>
     <message>
         <source>Failed to write to coin database</source>
-        <translation>Gagal menuliskan ke dalam database koin</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Failed to write transaction index</source>
@@ -2691,15 +2926,23 @@ Alamat: %4
     </message>
     <message>
         <source>Failed to write undo data</source>
-        <translation>Gagal menulis ulang data</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fee per kB to add to transactions you send</source>
         <translation>Biaya untuk setiap kB yang akan ditambahkan ke transaksi yang Anda kirim</translation>
     </message>
     <message>
+        <source>Fees smaller than this are considered zero fee (for relaying) (default:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Find peers using DNS lookup (default: 1 unless -connect)</source>
         <translation>Cari peer dengan daftar alamat DNS (biasanya: 1 jika -connect tidak terpilih)</translation>
+    </message>
+    <message>
+        <source>Force safe mode (default: 0)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generate coins (default: 0)</source>
@@ -2710,6 +2953,10 @@ Alamat: %4
         <translation>Periksakan berapa blok waktu mulai (biasanya: 288, 0 = setiapnya)</translation>
     </message>
     <message>
+        <source>If &lt;category&gt; is not supplied, output all debugging information.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Importing...</source>
         <translation>mengimpor...</translation>
     </message>
@@ -2718,20 +2965,32 @@ Alamat: %4
         <translation>Tidak bisa cari blok pertama, atau blok pertama salah. Salah direktori untuk jaringan?</translation>
     </message>
     <message>
-        <source>Invalid -onion address: '%s'</source>
-        <translation>Alamat -onion salah: '%s'</translation>
+        <source>Invalid -onion address: &apos;%s&apos;</source>
+        <translation>Alamat -onion salah: &apos;%s&apos;</translation>
     </message>
     <message>
         <source>Not enough file descriptors available.</source>
         <translation>Deskripsi berkas tidak tersedia dengan cukup.</translation>
     </message>
     <message>
+        <source>Prepend debug output with timestamp (default: 1)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>RPC client options:</source>
         <translation>Pilihan RPC klien:</translation>
     </message>
     <message>
+        <source>Rebuild block chain index from current blk000??.dat files</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Select SOCKS version for -proxy (4 or 5, default: 5)</source>
         <translation>Pililah versi SOCKS untuk -proxy (4 atau 5, biasanya: 5)</translation>
+    </message>
+    <message>
+        <source>Set database cache size in megabytes (%d to %d, default: %d)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set maximum block size in bytes (default: %d)</source>
@@ -2748,6 +3007,14 @@ Alamat: %4
     <message>
         <source>Spend unconfirmed change when sending transactions (default: 1)</source>
         <translation>Perubahan saldo untuk transaksi yang belum dikonfirmasi setelah transaksi terkirim (default: 1)</translation>
+    </message>
+    <message>
+        <source>This is intended for regression testing tools and app development.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Usage (deprecated, use zetacoin-cli):</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Verifying blocks...</source>
@@ -2767,7 +3034,11 @@ Alamat: %4
     </message>
     <message>
         <source>Wallet options:</source>
-        <translation>Opsi dompet:</translation>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Warning: Deprecated argument -debugnet ignored, use -debug=net</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You need to rebuild the database using -reindex to change -txindex</source>
@@ -2778,36 +3049,96 @@ Alamat: %4
         <translation>Impor blok dari eksternal berkas blk000???.dat</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
-        <translation>Tidak bisa mengunci data directory %s. Kemungkinan Bitcoin Core sudah mulai.</translation>
+        <source>Cannot obtain a lock on data directory %s. Zetacoin Core is probably already running.</source>
+        <translation>Tidak bisa mengunci data directory %s. Kemungkinan Zetacoin Core sudah mulai.</translation>
+    </message>
+    <message>
+        <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Output debugging information (default: 0, supplying &lt;category&gt; is optional)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Set maximum size of high-priority/low-fee transactions in bytes (default: %d)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Information</source>
         <translation>Informasi</translation>
     </message>
     <message>
-        <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</source>
-        <translation>Nilai yang salah untuk -minrelaytxfee=&lt;amount&gt;: '%s'</translation>
+        <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
+        <translation>Nilai yang salah untuk -minrelaytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
-        <source>Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</source>
-        <translation>Nilai yang salah untuk -mintxfee=&lt;amount&gt;: '%s'</translation>
+        <source>Invalid amount for -mintxfee=&lt;amount&gt;: &apos;%s&apos;</source>
+        <translation>Nilai yang salah untuk -mintxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
+    </message>
+    <message>
+        <source>Limit size of signature cache to &lt;n&gt; entries (default: 50000)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Log transaction priority and fee per kB when mining blocks (default: 0)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Maintain a full transaction index (default: 0)</source>
         <translation>Jaga daftar transaksi yang lengkap (biasanya: 0)</translation>
     </message>
     <message>
+        <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: 5000)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: 1000)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Only accept block chain matching built-in checkpoints (default: 1)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Only connect to nodes in network &lt;net&gt; (IPv4, IPv6 or Tor)</source>
         <translation>Dilarang menghubungkan node-node selain &lt;net&gt; (IPv4, IPv6 atau Tor)</translation>
     </message>
     <message>
-        <source>RPC server options:</source>
-        <translation>Opsi server RPC:</translation>
+        <source>Print block on startup, if found in block index</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>Pilihan SSL: (petunjuk pengaturan SSL lihat dalam Bitcoin Wiki)</translation>
+        <source>Print block tree on startup (default: 0)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RPC SSL options: (see the Zetacoin Wiki for SSL setup instructions)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>RPC server options:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Randomly drop 1 of every &lt;n&gt; network messages</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Randomly fuzz 1 of every &lt;n&gt; network messages</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Run a thread to flush wallet periodically (default: 1)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>SSL options: (see the Zetacoin Wiki for SSL setup instructions)</source>
+        <translation>Pilihan SSL: (petunjuk pengaturan SSL lihat dalam Zetacoin Wiki)</translation>
+    </message>
+    <message>
+        <source>Send command to Zetacoin Core</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -2816,6 +3147,18 @@ Alamat: %4
     <message>
         <source>Set minimum block size in bytes (default: 0)</source>
         <translation>Atur ukuran minimal untuk blok dalam byte (standar: 0)</translation>
+    </message>
+    <message>
+        <source>Sets the DB_PRIVATE flag in the wallet db environment (default: 1)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show all debugging options (usage: --help -help-debug)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Show benchmark information (default: 0)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
@@ -2830,8 +3173,8 @@ Alamat: %4
         <translation>Menetapkan waktu berakhir koneksi di milidetik (biasanya: 5000)</translation>
     </message>
     <message>
-        <source>Start Bitcoin Core Daemon</source>
-        <translation>Memulai Bitcoin Core Daemon</translation>
+        <source>Start Zetacoin Core Daemon</source>
+        <translation>Memulai Zetacoin Core Daemon</translation>
     </message>
     <message>
         <source>System error: </source>
@@ -2850,6 +3193,14 @@ Alamat: %4
         <translation>Transaksi terlalu besar</translation>
     </message>
     <message>
+        <source>Use UPnP to map the listening port (default: 0)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Use UPnP to map the listening port (default: 1 when listening)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Username for JSON-RPC connections</source>
         <translation>Nama pengguna untuk hubungan JSON-RPC</translation>
     </message>
@@ -2863,7 +3214,11 @@ Alamat: %4
     </message>
     <message>
         <source>Zapping all transactions from wallet...</source>
-        <translation>Setiap transaksi dalam dompet sedang di-'Zap'...</translation>
+        <translation>Setiap transaksi dalam dompet sedang di-&apos;Zap&apos;...</translation>
+    </message>
+    <message>
+        <source>on startup</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>version</source>
@@ -2934,40 +3289,40 @@ Alamat: %4
         <translation>Gagal memuat wallet.dat: Dompet rusak</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin</source>
-        <translation>Gagal memuat wallet.dat: Dompet memerlukan versi Bitcoin yang terbaru</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Zetacoin</source>
+        <translation>Gagal memuat wallet.dat: Dompet memerlukan versi Zetacoin yang terbaru</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin to complete</source>
-        <translation>Dompet diperlukan untuk disimpan-ulang: nyala-ulangkan Bitcoin untuk menyelesaikan</translation>
+        <source>Wallet needed to be rewritten: restart Zetacoin to complete</source>
+        <translation>Dompet diperlukan untuk disimpan-ulang: nyala-ulangkan Zetacoin untuk menyelesaikan</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>
         <translation>Gagal memuat wallet.dat</translation>
     </message>
     <message>
-        <source>Invalid -proxy address: '%s'</source>
-        <translation>Alamat -proxy salah: '%s'</translation>
+        <source>Invalid -proxy address: &apos;%s&apos;</source>
+        <translation>Alamat -proxy salah: &apos;%s&apos;</translation>
     </message>
     <message>
-        <source>Unknown network specified in -onlynet: '%s'</source>
-        <translation>Jaringan tidak diketahui yang ditentukan dalam -onlynet: '%s'</translation>
+        <source>Unknown network specified in -onlynet: &apos;%s&apos;</source>
+        <translation>Jaringan tidak diketahui yang ditentukan dalam -onlynet: &apos;%s&apos;</translation>
     </message>
     <message>
         <source>Unknown -socks proxy version requested: %i</source>
         <translation>Diminta versi proxy -socks tidak diketahui: %i</translation>
     </message>
     <message>
-        <source>Cannot resolve -bind address: '%s'</source>
-        <translation>Tidak dapat menyelesaikan alamat -bind: '%s'</translation>
+        <source>Cannot resolve -bind address: &apos;%s&apos;</source>
+        <translation>Tidak dapat menyelesaikan alamat -bind: &apos;%s&apos;</translation>
     </message>
     <message>
-        <source>Cannot resolve -externalip address: '%s'</source>
-        <translation>Tidak dapat menyelesaikan alamat -externalip: '%s'</translation>
+        <source>Cannot resolve -externalip address: &apos;%s&apos;</source>
+        <translation>Tidak dapat menyelesaikan alamat -externalip: &apos;%s&apos;</translation>
     </message>
     <message>
-        <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</source>
-        <translation>Nilai salah untuk -paytxfee=&lt;amount&gt;: '%s'</translation>
+        <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
+        <translation>Nilai salah untuk -paytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <source>Invalid amount</source>

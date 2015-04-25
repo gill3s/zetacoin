@@ -1,13 +1,13 @@
-<TS language="cs" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="cs" version="2.1">
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>O Bitcoin Core</translation>
+        <source>About Zetacoin Core</source>
+        <translation>O Zetacoin Core</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Bitcoin Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Bitcoin Core&lt;/b&gt; verze</translation>
+        <source>&lt;b&gt;Zetacoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Zetacoin Core&lt;/b&gt; verze</translation>
     </message>
     <message>
         <source>
@@ -28,8 +28,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation>Copyright</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Vývojáři Bitcoin Core</translation>
+        <source>The Zetacoin Core developers</source>
+        <translation>Vývojáři Zetacoin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -103,12 +103,12 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation>Přijímací adresy</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tohle jsou tvé Bitcoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
+        <source>These are your Zetacoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tohle jsou tvé Zetacoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Tohle jsou tvé Bitcoinové adresy pro příjem plateb. Je doporučené používat pokaždé novou adresu pro každou transakci.</translation>
+        <source>These are your Zetacoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Tohle jsou tvé Zetacoinové adresy pro příjem plateb. Je doporučené používat pokaždé novou adresu pro každou transakci.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -205,7 +205,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation>Potvrď zašifrování peněženky</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZETACOINS&lt;/b&gt;!</source>
         <translation>Upozornění: Pokud si zašifruješ peněženku a ztratíš či zapomeneš heslo, &lt;b&gt;PŘIJDEŠ O VŠECHNY BITCOINY&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -225,8 +225,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation>Peněženka je zašifrována</translation>
     </message>
     <message>
-        <source>Bitcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých bitcoinů malwarem, kterým se může počítač nakazit.</translation>
+        <source>Zetacoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your zetacoins from being stolen by malware infecting your computer.</source>
+        <translation>Zetacoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých bitcoinů malwarem, kterým se může počítač nakazit.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -296,8 +296,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation>Ukonči aplikaci</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin</source>
-        <translation>Zobraz informace o Bitcoinu</translation>
+        <source>Show information about Zetacoin</source>
+        <translation>Zobraz informace o Zetacoinu</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -344,12 +344,12 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation>Vytvářím nový index bloků na disku...</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
-        <translation>Pošli mince na Bitcoinovou adresu</translation>
+        <source>Send coins to a Zetacoin address</source>
+        <translation>Pošli mince na Zetacoinovou adresu</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin</source>
-        <translation>Uprav nastavení Bitcoinu</translation>
+        <source>Modify configuration options for Zetacoin</source>
+        <translation>Uprav nastavení Zetacoinu</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -372,8 +372,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation>&amp;Ověř zprávu...</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Zetacoin</source>
+        <translation>Zetacoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -400,12 +400,12 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation>Zašifruj soukromé klíče ve své peněžence</translation>
     </message>
     <message>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Podepiš zprávy svými Bitcoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
+        <source>Sign messages with your Zetacoin addresses to prove you own them</source>
+        <translation>Podepiš zprávy svými Zetacoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Bitcoinovými adresami</translation>
+        <source>Verify messages to ensure they were signed with specified Zetacoin addresses</source>
+        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Zetacoinovými adresami</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -428,16 +428,16 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Zetacoin Core</source>
+        <translation>Zetacoin Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Požaduj platby (generuje QR kódy a bitcoin: URI)</translation>
+        <source>Request payments (generates QR codes and zetacoind: URIs)</source>
+        <translation>Požaduj platby (generuje QR kódy a zetacoind: URI)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>O &amp;Bitcoin Core</translation>
+        <source>&amp;About Zetacoin Core</source>
+        <translation>O &amp;Zetacoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -448,24 +448,24 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <translation>Ukaž seznam použitých přijímacích adres a jejich označení</translation>
     </message>
     <message>
-        <source>Open a bitcoin: URI or payment request</source>
-        <translation>Načti bitcoin: URI nebo platební požadavek</translation>
+        <source>Open a zetacoind: URI or payment request</source>
+        <translation>Načti zetacoind: URI nebo platební požadavek</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Ar&amp;gumenty z příkazové řádky</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Seznam argumentů Bitcoinu pro příkazovou řádku získáš v nápovědě Bitcoinu Core</translation>
+        <source>Show the Zetacoin Core help message to get a list with possible Zetacoin command-line options</source>
+        <translation>Seznam argumentů Zetacoinu pro příkazovou řádku získáš v nápovědě Zetacoinu Core</translation>
     </message>
     <message>
-        <source>Bitcoin client</source>
-        <translation>Bitcoin klient</translation>
+        <source>Zetacoin client</source>
+        <translation>Zetacoin klient</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n aktivní spojení do Bitcoinové sítě</numerusform><numerusform>%n aktivní spojení do Bitcoinové sítě</numerusform><numerusform>%n aktivních spojení do Bitcoinové sítě</numerusform></translation>
+        <source>%n active connection(s) to Zetacoin network</source>
+        <translation><numerusform>%n aktivní spojení do Zetacoinové sítě</numerusform><numerusform>%n aktivní spojení do Zetacoinové sítě</numerusform><numerusform>%n aktivních spojení do Zetacoinové sítě</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -479,9 +479,25 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
         <source>Processed %1 blocks of transaction history.</source>
         <translation>Zpracováno %1 bloků transakční historie.</translation>
     </message>
+    <message numerus="yes">
+        <source>%n hour(s)</source>
+        <translation><numerusform>hodinu</numerusform><numerusform>%n hodiny</numerusform><numerusform>%n hodin</numerusform></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n day(s)</source>
+        <translation><numerusform>den</numerusform><numerusform>%n dny</numerusform><numerusform>%n dnů</numerusform></translation>
+    </message>
+    <message numerus="yes">
+        <source>%n week(s)</source>
+        <translation><numerusform>týden</numerusform><numerusform>%n týdny</numerusform><numerusform>%n týdnů</numerusform></translation>
+    </message>
     <message>
         <source>%1 and %2</source>
         <translation>%1 a %2</translation>
+    </message>
+    <message numerus="yes">
+        <source>%n year(s)</source>
+        <translation><numerusform>rok</numerusform><numerusform>%n roky</numerusform><numerusform>%n roků</numerusform></translation>
     </message>
     <message>
         <source>%1 behind</source>
@@ -544,8 +560,8 @@ Adresa: %4
         <translation>Peněženka je &lt;b&gt;zašifrovaná&lt;/b&gt; a momentálně &lt;b&gt;zamčená&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
-        <translation>Stala se fatální chyba. Bitcoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
+        <source>A fatal error occurred. Zetacoin can no longer continue safely and will quit.</source>
+        <translation>Stala se fatální chyba. Zetacoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
     </message>
 </context>
 <context>
@@ -559,7 +575,7 @@ Adresa: %4
     <name>CoinControlDialog</name>
     <message>
         <source>Coin Control Address Selection</source>
-        <translation>Volba adres v rámci ruční správy mincí</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Quantity:</source>
@@ -727,7 +743,7 @@ Adresa: %4
     </message>
     <message>
         <source>Dust</source>
-        <translation>Prach</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>yes</source>
@@ -739,7 +755,7 @@ Adresa: %4
     </message>
     <message>
         <source>This label turns red, if the transaction size is greater than 1000 bytes.</source>
-        <translation>Popisek zčervená, pokud je velikost transakce větší než 1000 bajtů.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This means a fee of at least %1 per kB is required.</source>
@@ -751,27 +767,27 @@ Adresa: %4
     </message>
     <message>
         <source>Transactions with higher priority are more likely to get included into a block.</source>
-        <translation>Transakce s vyšší prioritou mají větší šanci na zařazení do bloku.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>This label turns red, if the priority is smaller than "medium".</source>
-        <translation>Popisek zčervená, pokud je priorita menší než „střední“.</translation>
+        <source>This label turns red, if the priority is smaller than &quot;medium&quot;.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This label turns red, if any recipient receives an amount smaller than %1.</source>
-        <translation>Popisek zčervená, pokud má některý příjemce obdržet částku menší než %1.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This means a fee of at least %1 is required.</source>
-        <translation>To znamená, že je vyžadován poplatek alespoň %1.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Amounts below 0.546 times the minimum relay fee are shown as dust.</source>
-        <translation>Částky menší než 0,546násobek minimálního poplatku pro přenos jsou označovány jako prach.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This label turns red, if the change is smaller than %1.</source>
-        <translation>Popisek zčervená, pokud jsou drobné menší než %1.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>(no label)</source>
@@ -779,7 +795,7 @@ Adresa: %4
     </message>
     <message>
         <source>change from %1 (%2)</source>
-        <translation>drobné z %1 (%2)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>(change)</source>
@@ -825,12 +841,12 @@ Adresa: %4
         <translation>Uprav odesílací adresu</translation>
     </message>
     <message>
-        <source>The entered address "%1" is already in the address book.</source>
-        <translation>Zadaná adresa "%1" už v adresáři je.</translation>
+        <source>The entered address &quot;%1&quot; is already in the address book.</source>
+        <translation>Zadaná adresa &quot;%1&quot; už v adresáři je.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>Zadaná adresa "%1" není platná Bitcoinová adresa.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Zetacoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; není platná Zetacoinová adresa.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -867,12 +883,12 @@ Adresa: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core - Command-line options</source>
-        <translation>BitcoinCore – Argumenty z příkazové řádky</translation>
+        <source>Zetacoin Core - Command-line options</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Zetacoin Core</source>
+        <translation>Zetacoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -891,8 +907,8 @@ Adresa: %4
         <translation>Možnosti UI</translation>
     </message>
     <message>
-        <source>Set language, for example "de_DE" (default: system locale)</source>
-        <translation>Nastavit jazyk, například "de_DE" (výchozí: systémové nastavení)</translation>
+        <source>Set language, for example &quot;de_DE&quot; (default: system locale)</source>
+        <translation>Nastavit jazyk, například &quot;de_DE&quot; (výchozí: systémové nastavení)</translation>
     </message>
     <message>
         <source>Start minimized</source>
@@ -900,7 +916,7 @@ Adresa: %4
     </message>
     <message>
         <source>Set SSL root certificates for payment request (default: -system-)</source>
-        <translation>Nastavit kořenové SSL certifikáty pro platební požadavky (výchozí: -system-)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show splash screen on startup (default: 1)</source>
@@ -918,16 +934,16 @@ Adresa: %4
         <translation>Vítej</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Vítej v Bitcoin Core.</translation>
+        <source>Welcome to Zetacoin Core.</source>
+        <translation>Vítej v Zetacoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
-        <translation>Tohle je poprvé, co spouštíš Bitcoin Core, takže si můžeš zvolit, kam bude ukládat svá data.</translation>
+        <source>As this is the first time the program is launched, you can choose where Zetacoin Core will store its data.</source>
+        <translation>Tohle je poprvé, co spouštíš Zetacoin Core, takže si můžeš zvolit, kam bude ukládat svá data.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bitcoin Core bude stahovat kopii řetězce bloků. Proto bude potřeba do tohoto adresáře uložit nejméně %1 GB dat – toto číslo bude navíc v průběhu času pomalu růst. Tvá peněženka bude rovněž uložena v tomto adresáři.</translation>
+        <source>Zetacoin Core will download and store a copy of the Zetacoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Zetacoin Core bude stahovat kopii řetězce bloků. Proto bude potřeba do tohoto adresáře uložit nejméně %1 GB dat – toto číslo bude navíc v průběhu času pomalu růst. Tvá peněženka bude rovněž uložena v tomto adresáři.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -938,11 +954,11 @@ Adresa: %4
         <translation>Použij tento adresář pro data:</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Zetacoin</source>
+        <translation>Zetacoin</translation>
     </message>
     <message>
-        <source>Error: Specified data directory "%1" can not be created.</source>
+        <source>Error: Specified data directory &quot;%1&quot; can not be created.</source>
         <translation>Chyba: Nejde vytvořit požadovaný adresář pro data „%1“.</translation>
     </message>
     <message>
@@ -1000,12 +1016,12 @@ Adresa: %4
         <translation>Platit &amp;transakční poplatek</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin after logging in to the system.</source>
-        <translation>Automaticky spustí Bitcoin po přihlášení do systému.</translation>
+        <source>Automatically start Zetacoin after logging in to the system.</source>
+        <translation>Automaticky spustí Zetacoin po přihlášení do systému.</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin on system login</source>
-        <translation>S&amp;pustit Bitcoin po přihlášení do systému</translation>
+        <source>&amp;Start Zetacoin on system login</source>
+        <translation>S&amp;pustit Zetacoin po přihlášení do systému</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1020,8 +1036,8 @@ Adresa: %4
         <translation>Počet vláken pro &amp;verifikaci skriptů</translation>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a SOCKS proxy.</source>
-        <translation>Připojí se do Bitcoinové sítě přes SOCKS proxy.</translation>
+        <source>Connect to the Zetacoin network through a SOCKS proxy.</source>
+        <translation>Připojí se do Zetacoinové sítě přes SOCKS proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS proxy (default proxy):</source>
@@ -1033,15 +1049,15 @@ Adresa: %4
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
-        <translation>URL třetích stran (např. block exploreru), které se zobrazí v kontextovém menu v záložce Transakce. %s v URL se nahradí hashem transakce. Více URL odděl svislítkem |.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Third party transaction URLs</source>
-        <translation>URL transakcí třetích stran</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Active command-line options that override above options:</source>
-        <translation>Aktivní argumenty z příkazové řádky, které přetloukly tato nastavení:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reset all client options to default.</source>
@@ -1069,18 +1085,18 @@ Adresa: %4
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
-        <translation>Povolit ruční správu &amp;mincí</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>If you disable the spending of unconfirmed change, the change from a transaction cannot be used until that transaction has at least one confirmation. This also affects how your balance is computed.</source>
-        <translation>Pokud zakážeš utrácení ještě nepotvrzených drobných, nepůjde použít drobné z transakce, dokud nebude mít alespoň jedno potvrzení. Ovlivní to také výpočet stavu účtu.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
-        <translation>&amp;Utrácet i ještě nepotvrzené drobné</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Zetacoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Automaticky otevře potřebný port na routeru. Tohle funguje jen za předpokladu, že tvůj router podporuje UPnP a že je UPnP povolené.</translation>
     </message>
     <message>
@@ -1136,8 +1152,8 @@ Adresa: %4
         <translation>&amp;Jazyk uživatelského rozhraní:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin.</source>
-        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Bitcoinu.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Zetacoin.</source>
+        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Zetacoinu.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1148,7 +1164,7 @@ Adresa: %4
         <translation>Zvol výchozí podjednotku, která se bude zobrazovat v programu a při posílání mincí.</translation>
     </message>
     <message>
-        <source>Whether to show Bitcoin addresses in the transaction list or not.</source>
+        <source>Whether to show Zetacoin addresses in the transaction list or not.</source>
         <translation>Zda ukazovat bitcoinové adresy ve výpisu transakcí nebo ne.</translation>
     </message>
     <message>
@@ -1157,7 +1173,7 @@ Adresa: %4
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
-        <translation>Zda ukazovat možnosti pro ruční správu mincí nebo ne.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -1173,7 +1189,7 @@ Adresa: %4
     </message>
     <message>
         <source>none</source>
-        <translation>žádné</translation>
+        <translation>žádná</translation>
     </message>
     <message>
         <source>Confirm options reset</source>
@@ -1203,8 +1219,8 @@ Adresa: %4
         <translation>Formulář</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Bitcoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Zetacoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Zetacoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1258,8 +1274,8 @@ Adresa: %4
         <translation>Zpracování URI</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Bitcoinová adresa nebo poškozené parametry URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Zetacoin address or malformed URI parameters.</source>
+        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Zetacoinová adresa nebo poškozené parametry URI.</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
@@ -1270,15 +1286,15 @@ Adresa: %4
         <translation>Chyba platebního požadavku</translation>
     </message>
     <message>
-        <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>Nemůžu spustit bitcoin: obsluha click-to-pay</translation>
+        <source>Cannot start zetacoind: click-to-pay handler</source>
+        <translation>Nemůžu spustit zetacoind: obsluha click-to-pay</translation>
     </message>
     <message>
         <source>Net manager warning</source>
         <translation>Upozornění správce sítě</translation>
     </message>
     <message>
-        <source>Your active proxy doesn't support SOCKS5, which is required for payment requests via proxy.</source>
+        <source>Your active proxy doesn&apos;t support SOCKS5, which is required for payment requests via proxy.</source>
         <translation>Tvá aktivní proxy nepodporuje SOCKS5, které je vyžadováno pro platební požadavky skrz proxy.</translation>
     </message>
     <message>
@@ -1325,11 +1341,11 @@ Adresa: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Zetacoin</source>
+        <translation>Zetacoin</translation>
     </message>
     <message>
-        <source>Error: Specified data directory "%1" does not exist.</source>
+        <source>Error: Specified data directory &quot;%1&quot; does not exist.</source>
         <translation>Chyba: Zadaný adresář pro data „%1“ neexistuje.</translation>
     </message>
     <message>
@@ -1341,12 +1357,12 @@ Adresa: %4
         <translation>Chyba: Neplatná kombinace -regtest a -testnet.</translation>
     </message>
     <message>
-        <source>Bitcoin Core didn't yet exit safely...</source>
-        <translation>Bitcoin Core ještě bezpečně neskončil...</translation>
+        <source>Zetacoin Core didn&apos;t yet exit safely...</source>
+        <translation>Zetacoin Core ještě bezpečně neskončil...</translation>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Zadej Bitcoinovou adresu (např. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Zetacoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Zadej Zetacoinovou adresu (např. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1467,16 +1483,16 @@ Adresa: %4
         <translation>Soubor s ladicími záznamy</translation>
     </message>
     <message>
-        <source>Open the Bitcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otevři soubor s ladicími záznamy Bitcoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
+        <source>Open the Zetacoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otevři soubor s ladicími záznamy Zetacoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Vyčistit konzoli</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin RPC console.</source>
-        <translation>Vítej v Bitcoinové RPC konzoli.</translation>
+        <source>Welcome to the Zetacoin RPC console.</source>
+        <translation>Vítej v Zetacoinové RPC konzoli.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1531,39 +1547,39 @@ Adresa: %4
     </message>
     <message>
         <source>Reuse one of the previously used receiving addresses. Reusing addresses has security and privacy issues. Do not use this unless re-generating a payment request made before.</source>
-        <translation>Recyklovat již dříve použité adresy. Recyklace adres má bezpečnostní rizika a narušuje soukromí. Nezaškrtávejte to, pokud znovu nevytváříte již dříve vytvořený platební požadavek.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>R&amp;euse an existing receiving address (not recommended)</source>
-        <translation>&amp;Recyklovat již existující adresy (nedoporučeno)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation>Volitelná zpráva, která se připojí k platebnímu požadavku a která se zobrazí, když se požadavek otevře. Poznámka: Tahle zpráva se neposílá s platbou po Bitcoinové síti.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Zetacoin network.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
-        <translation>Volitelné označení, které se má přiřadit k nové adrese.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
-        <translation>Tímto formulář můžeš požadovat platby. Všechna pole jsou &lt;b&gt;volitelná&lt;/b&gt;.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>An optional amount to request. Leave this empty or zero to not request a specific amount.</source>
-        <translation>Volitelná částka, kterou požaduješ. Nech prázdné nebo nulové, pokud nepožaduješ konkrétní částku.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>Promaž obsah ze všech formulářových políček.</translation>
+        <translation>Smaže všechny pole formuláře.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Vyčistit</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Requested payments history</source>
-        <translation>Historie vyžádaných plateb</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Request payment</source>
@@ -1571,19 +1587,19 @@ Adresa: %4
     </message>
     <message>
         <source>Show the selected request (does the same as double clicking an entry)</source>
-        <translation>Zobraz zvolený požadavek (stejně tak můžeš přímo na něj dvakrát poklepat)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show</source>
-        <translation>Zobrazit</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove the selected entries from the list</source>
-        <translation>Smaž zvolené požadavky ze seznamu</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Smazat</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <source>Copy label</source>
@@ -1606,7 +1622,7 @@ Adresa: %4
     </message>
     <message>
         <source>Copy &amp;URI</source>
-        <translation>&amp;Kopíruj URI</translation>
+        <translation>Kopíruj &amp;URI</translation>
     </message>
     <message>
         <source>Copy &amp;Address</source>
@@ -1618,7 +1634,7 @@ Adresa: %4
     </message>
     <message>
         <source>Request payment to %1</source>
-        <translation>Platební požadavek: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Payment information</source>
@@ -1692,7 +1708,7 @@ Adresa: %4
     </message>
     <message>
         <source>Coin Control Features</source>
-        <translation>Možnosti ruční správy mincí</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Inputs...</source>
@@ -1740,7 +1756,7 @@ Adresa: %4
     </message>
     <message>
         <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
-        <translation>Pokud aktivováno, ale adresa pro drobné je prázdná nebo neplatná, tak se drobné pošlou na nově vygenerovanou adresu.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Custom change address</source>
@@ -1756,7 +1772,7 @@ Adresa: %4
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>Promaž obsah ze všech formulářových políček.</translation>
+        <translation>Smaže všechny pole formuláře.</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -1780,7 +1796,7 @@ Adresa: %4
     </message>
     <message>
         <source>%1 to %2</source>
-        <translation>%1 pro %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy quantity</source>
@@ -1851,8 +1867,8 @@ Adresa: %4
         <translation>Transakce byla odmítnuta! Tohle může nastat, pokud nějaké mince z tvé peněženky už jednou byly utraceny, například pokud používáš kopii souboru wallet.dat a mince byly utraceny v druhé kopii, ale nebyly označeny jako utracené v této.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Bitcoin address</source>
-        <translation>Upozornění: Neplatná Bitcoinová adresa</translation>
+        <source>Warning: Invalid Zetacoin address</source>
+        <translation>Upozornění: Neplatná Zetacoinová adresa</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1864,7 +1880,7 @@ Adresa: %4
     </message>
     <message>
         <source>Are you sure you want to send?</source>
-        <translation>Jsi si jistý, že to chceš poslat?</translation>
+        <translation>Opravdu chcete odeslat %1?</translation>
     </message>
     <message>
         <source>added as transaction fee</source>
@@ -1931,19 +1947,19 @@ Adresa: %4
     </message>
     <message>
         <source>This is a verified payment request.</source>
-        <translation>Tohle je ověřený platební požadavek.</translation>
+        <translation>Toto je ověřený požadavek k platbě.</translation>
     </message>
     <message>
         <source>Enter a label for this address to add it to the list of used addresses</source>
-        <translation>Zadej označení této adresy; obojí se ti pak uloží do adresáře</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>Zpráva, která byla připojena k bitcoin: URI a která se ti pro přehled uloží k transakci. Poznámka: Tahle zpráva se neposílá s platbou po Bitcoinové síti.</translation>
+        <source>A message that was attached to the zetacoind: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Zetacoin network.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
-        <translation>Tohle je neověřený platební požadavek.</translation>
+        <translation>Toto je neověřený požadavek k platbě.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -1957,8 +1973,8 @@ Adresa: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
-        <translation>Bitcoin Core se ukončuje...</translation>
+        <source>Zetacoin Core is shutting down...</source>
+        <translation>Zetacoin Core se ukončuje...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2012,8 +2028,8 @@ Adresa: %4
         <translation>Zkopíruj aktuálně vybraný podpis do systémové schránky</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Bitcoinové adresy</translation>
+        <source>Sign the message to prove you own this Zetacoin address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Zetacoinové adresy</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2040,8 +2056,8 @@ Adresa: %4
         <translation>Adresa, kterou je zpráva podepsána (např. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Bitcoinovou adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified Zetacoin address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Zetacoinovou adresou</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2052,12 +2068,12 @@ Adresa: %4
         <translation>Vymaž všechna pole formuláře pro ověření zrávy</translation>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Zadej Bitcoinovou adresu (např. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Zetacoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Zadej Zetacoinovou adresu (např. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Click "Sign Message" to generate signature</source>
-        <translation>Kliknutím na "Podepiš zprávu" vygeneruješ podpis</translation>
+        <source>Click &quot;Sign Message&quot; to generate signature</source>
+        <translation>Kliknutím na &quot;Podepiš zprávu&quot; vygeneruješ podpis</translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
@@ -2111,12 +2127,12 @@ Adresa: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Zetacoin Core</source>
+        <translation>Zetacoin Core</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Vývojáři Bitcoin Core</translation>
+        <source>The Zetacoin Core developers</source>
+        <translation>Vývojáři Zetacoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2156,6 +2172,10 @@ Adresa: %4
         <source>Status</source>
         <translation>Stav</translation>
     </message>
+    <message numerus="yes">
+        <source>, broadcast through %n node(s)</source>
+        <translation><numerusform>, rozesláno přes 1 uzel</numerusform><numerusform>, rozesláno přes %n uzly</numerusform><numerusform>, rozesláno přes %n uzlů</numerusform></translation>
+    </message>
     <message>
         <source>Date</source>
         <translation>Datum</translation>
@@ -2187,6 +2207,10 @@ Adresa: %4
     <message>
         <source>Credit</source>
         <translation>Příjem</translation>
+    </message>
+    <message numerus="yes">
+        <source>matures in %n more block(s)</source>
+        <translation><numerusform>dozraje po jednom bloku</numerusform><numerusform>dozraje po %n blocích</numerusform><numerusform>dozraje po %n blocích</numerusform></translation>
     </message>
     <message>
         <source>not accepted</source>
@@ -2221,8 +2245,8 @@ Adresa: %4
         <translation>Obchodník</translation>
     </message>
     <message>
-        <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Vygenerované mince musí čekat %1 bloků, než mohou být utraceny. Když jsi vygeneroval tenhle blok, tak byl rozposlán do sítě, aby byl přidán do řetězce bloků. Pokud se mu nepodaří dostat se do řetězce, změní se na "neakceptovaný" a nepůjde utratit. To se občas může stát, pokud jiný uzel vygeneruje blok zhruba ve stejném okamžiku jako ty.</translation>
+        <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>Vygenerované mince musí čekat %1 bloků, než mohou být utraceny. Když jsi vygeneroval tenhle blok, tak byl rozposlán do sítě, aby byl přidán do řetězce bloků. Pokud se mu nepodaří dostat se do řetězce, změní se na &quot;neakceptovaný&quot; a nepůjde utratit. To se občas může stát, pokud jiný uzel vygeneruje blok zhruba ve stejném okamžiku jako ty.</translation>
     </message>
     <message>
         <source>Debug information</source>
@@ -2251,6 +2275,10 @@ Adresa: %4
     <message>
         <source>, has not been successfully broadcast yet</source>
         <translation>, ještě nebylo rozesláno</translation>
+    </message>
+    <message numerus="yes">
+        <source>Open for %n more block(s)</source>
+        <translation><numerusform>Otevřeno pro 1 další blok</numerusform><numerusform>Otevřeno pro %n další bloky</numerusform><numerusform>Otevřeno pro %n dalších bloků</numerusform></translation>
     </message>
     <message>
         <source>unknown</source>
@@ -2289,6 +2317,10 @@ Adresa: %4
     <message>
         <source>Immature (%1 confirmations, will be available after %2)</source>
         <translation>Nedozráno (%1 potvrzení, bude k dispozici za %2)</translation>
+    </message>
+    <message numerus="yes">
+        <source>Open for %n more block(s)</source>
+        <translation><numerusform>Otevřeno pro 1 další blok</numerusform><numerusform>Otevřeno pro %n další bloky</numerusform><numerusform>Otevřeno pro %n dalších bloků</numerusform></translation>
     </message>
     <message>
         <source>Open until %1</source>
@@ -2578,12 +2610,12 @@ Adresa: %4
         <translation>Možnosti:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: bitcoin.conf)</source>
-        <translation>Konfigurační soubor (výchozí: bitcoin.conf)</translation>
+        <source>Specify configuration file (default: zetacoin.conf)</source>
+        <translation>Konfigurační soubor (výchozí: zetacoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: bitcoind.pid)</source>
-        <translation>PID soubor (výchozí: bitcoind.pid)</translation>
+        <source>Specify pid file (default: zetacoind.pid)</source>
+        <translation>PID soubor (výchozí: zetacoind.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -2614,6 +2646,10 @@ Adresa: %4
         <translation>Doba ve vteřinách, po kterou se nebudou moci zlobivé uzly znovu připojit (výchozí: 86400)</translation>
     </message>
     <message>
+        <source>An error occurred while setting up the RPC port %u for listening on IPv4: %s</source>
+        <translation>Při nastavování naslouchacího RPC portu %i pro IPv4 nastala chyba: %s</translation>
+    </message>
+    <message>
         <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 8332 or testnet: 18332)</source>
         <translation>Čekat na JSON RPC spojení na &lt;portu&gt; (výchozí: 8332 nebo testnet: 18332)</translation>
     </message>
@@ -2622,8 +2658,8 @@ Adresa: %4
         <translation>Akceptovat příkazy z příkazové řádky a přes JSON-RPC</translation>
     </message>
     <message>
-        <source>Bitcoin Core RPC client version</source>
-        <translation>Verze Bitcoin Core RPC klienta</translation>
+        <source>Zetacoin Core RPC client version</source>
+        <translation>Verze Zetacoin Core RPC klienta</translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
@@ -2641,24 +2677,24 @@ Adresa: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=bitcoinrpc
+rpcuser=zetacoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Zetacoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíš nastavit rpcpassword v konfiguračním souboru:
 %s
 Je vhodné použít následující náhodné heslo:
-rpcuser=bitcoinrpc
+rpcuser=zetacoinrpc
 rpcpassword=%s
 (není potřeba si ho pamatovat)
 rpcuser a rpcpassword NESMÍ být stejné.
 Pokud konfigurační soubor ještě neexistuje, vytvoř ho tak, aby ho mohl číst pouze vlastník.
 Je také doporučeno si nastavit alertnotify, abys byl upozorněn na případné problémy;
-například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
+například: alertnotify=echo %%s | mail -s &quot;Zetacoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2675,7 +2711,7 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
     </message>
     <message>
         <source>Continuously rate-limit free transactions to &lt;n&gt;*1000 bytes per minute (default:15)</source>
-        <translation>Kontinuálně omezovat bezpoplatkové transakce na &lt;n&gt;*1000 bajtů za minutu (výchozí: 15)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enter regression test mode, which uses a special chain in which blocks can be solved instantly. This is intended for regression testing tools and app development.</source>
@@ -2687,7 +2723,7 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
     </message>
     <message>
         <source>Error: Listening for incoming connections failed (listen returned error %d)</source>
-        <translation>Chyba: Nelze naslouchat příchozí spojení (listen vrátil chybu %d)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error: The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
@@ -2703,11 +2739,11 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
     </message>
     <message>
         <source>Fees smaller than this are considered zero fee (for transaction creation) (default:</source>
-        <translation>Poplatky menší než tato hodnota jsou považovány za nulové (pro vytváření transakcí) (výchozí:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: 100)</source>
-        <translation>Promítnout databázovou aktivitu z paměťového prostoru do záznamu na disku každých &lt;n&gt; megabajtů (výchozí: 100)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>How thorough the block verification of -checkblocks is (0-4, default: 3)</source>
@@ -2715,19 +2751,23 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
     </message>
     <message>
         <source>In this mode -genproclimit controls how many blocks are generated immediately.</source>
-        <translation>V tomto módu -genproclimit určuje, kolik bloků je vygenerováno okamžitě.</translation>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Set the number of script verification threads (%u to %d, 0 = auto, &lt;0 = leave that many cores free, default: %d)</source>
+        <translation>Nastavení počtu vláken pro verifikaci skriptů (%u až %d, 0 = automaticky, &lt;0 = nechat daný počet jader volný, výchozí: 0)</translation>
     </message>
     <message>
         <source>Set the processor limit for when generation is on (-1 = unlimited, default: -1)</source>
-        <translation>Nastavit omezení procesoru pro zapnuté generování (-1 = bez omezení, výchozí: -1)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
         <translation>Tohle je testovací verze – používej ji jen na vlastní riziko, ale rozhodně ji nepoužívej k těžbě nebo pro obchodní aplikace</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
-        <translation>Nedaří se mi připojit na %s na tomhle počítači. Bitcoin Core už pravděpodobně jednou běží.</translation>
+        <source>Unable to bind to %s on this computer. Zetacoin Core is probably already running.</source>
+        <translation>Nedaří se mi připojit na %s na tomhle počítači. Zetacoin Core už pravděpodobně jednou běží.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: -proxy)</source>
@@ -2738,8 +2778,8 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
         <translation>Upozornění: -paytxfee je nastaveno velmi vysoko! Toto je transakční poplatek, který zaplatíš za každou poslanou transakci.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Bitcoin will not work properly.</source>
-        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, Bitcoin nebude fungovat správně.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Zetacoin will not work properly.</source>
+        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, Zetacoin nebude fungovat správně.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2774,8 +2814,8 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
         <translation>Pokusit se zachránit soukromé klíče z poškozeného souboru wallet.dat</translation>
     </message>
     <message>
-        <source>Bitcoin Core Daemon</source>
-        <translation>Bitcoin Core démon</translation>
+        <source>Zetacoin Core Daemon</source>
+        <translation>Zetacoin Core démon</translation>
     </message>
     <message>
         <source>Block creation options:</source>
@@ -2783,7 +2823,7 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
     </message>
     <message>
         <source>Clear list of wallet transactions (diagnostic tool; implies -rescan)</source>
-        <translation>Smazat seznam transakcí peněženky (diagnostický nástroj; vynutí -rescan)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Connect only to the specified node(s)</source>
@@ -2811,7 +2851,7 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
     </message>
     <message>
         <source>Disable safemode, override a real safe mode event (default: 0)</source>
-        <translation>Vypnout bezpečný režim (safemode), překrýt skutečnou událost bezpečného režimu (výchozí: 0)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
@@ -2903,7 +2943,7 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
     </message>
     <message>
         <source>Fees smaller than this are considered zero fee (for relaying) (default:</source>
-        <translation>Poplatky menší než tato hodnota jsou považovány za nulové (pro přeposílání transakcí) (výchozí:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Find peers using DNS lookup (default: 1 unless -connect)</source>
@@ -2923,7 +2963,7 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
     </message>
     <message>
         <source>If &lt;category&gt; is not supplied, output all debugging information.</source>
-        <translation>Pokud není &lt;category&gt; zadána, bude tisknout veškeré ladicí informace.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Importing...</source>
@@ -2934,8 +2974,8 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
         <translation>Nemám žádný nebo jen špatný genesis blok. Není špatně nastavený datadir?</translation>
     </message>
     <message>
-        <source>Invalid -onion address: '%s'</source>
-        <translation>Neplatná -onion adresa: '%s'</translation>
+        <source>Invalid -onion address: &apos;%s&apos;</source>
+        <translation>Neplatná -onion adresa: &apos;%s&apos;</translation>
     </message>
     <message>
         <source>Not enough file descriptors available.</source>
@@ -2947,7 +2987,7 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
     </message>
     <message>
         <source>RPC client options:</source>
-        <translation>Možnosti RPC klienta:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rebuild block chain index from current blk000??.dat files</source>
@@ -2975,15 +3015,15 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
     </message>
     <message>
         <source>Spend unconfirmed change when sending transactions (default: 1)</source>
-        <translation>Utrácet i ještě nepotvrzené drobné při posílání transakcí (výchozí: 1)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This is intended for regression testing tools and app development.</source>
         <translation>Tohle je určeno pro nástroje na regresní testování a vyvíjení aplikací.</translation>
     </message>
     <message>
-        <source>Usage (deprecated, use bitcoin-cli):</source>
-        <translation>Užití (zastaralé, použij bitcoin-cli):</translation>
+        <source>Usage (deprecated, use zetacoin-cli):</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Verifying blocks...</source>
@@ -2995,7 +3035,7 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
     </message>
     <message>
         <source>Wait for RPC server to start</source>
-        <translation>Počkat, než RPC server nastartuje</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>
@@ -3007,7 +3047,7 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
     </message>
     <message>
         <source>Warning: Deprecated argument -debugnet ignored, use -debug=net</source>
-        <translation>Upozornění: Zastaralý argument -debugnet se ignoruje, použij -debug=net</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You need to rebuild the database using -reindex to change -txindex</source>
@@ -3018,8 +3058,8 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
         <translation>Importovat bloky z externího souboru blk000??.dat</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
-        <translation>Nedaří se mi získat zámek na datový adresář %s. Bitcoin Core pravděpodobně už jednou běží.</translation>
+        <source>Cannot obtain a lock on data directory %s. Zetacoin Core is probably already running.</source>
+        <translation>Nedaří se mi získat zámek na datový adresář %s. Zetacoin Core pravděpodobně už jednou běží.</translation>
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
@@ -3038,20 +3078,20 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
         <translation>Informace</translation>
     </message>
     <message>
-        <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</source>
-        <translation>Neplatná částka pro -minrelaytxfee=&lt;částka&gt;: '%s'</translation>
+        <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
+        <translation>Neplatná částka pro -minrelaytxfee=&lt;částka&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
-        <source>Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</source>
-        <translation>Neplatná částka pro -mintxfee=&lt;částka&gt;: '%s'</translation>
+        <source>Invalid amount for -mintxfee=&lt;amount&gt;: &apos;%s&apos;</source>
+        <translation>Neplatná částka pro -mintxfee=&lt;částka&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <source>Limit size of signature cache to &lt;n&gt; entries (default: 50000)</source>
-        <translation>Omezit velikost vyrovnávací paměti pro podpisy na &lt;n&gt; položek (výchozí: 50000)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Log transaction priority and fee per kB when mining blocks (default: 0)</source>
-        <translation>Zaznamenávat během těžení bloků prioritu transakce a poplatek za kB (výchozí: 0)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Maintain a full transaction index (default: 0)</source>
@@ -3075,15 +3115,15 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
     </message>
     <message>
         <source>Print block on startup, if found in block index</source>
-        <translation>Vypsat při startu blok,pokud se nachází v indexu bloků</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Print block tree on startup (default: 0)</source>
-        <translation>Vypsat při startu strom bloků (výchozí: 0)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>RPC SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>Možnosti SSL pro RPC: (viz instrukce nastavení SSL na Bitcoin Wiki)</translation>
+        <source>RPC SSL options: (see the Zetacoin Wiki for SSL setup instructions)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>RPC server options:</source>
@@ -3091,23 +3131,23 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
     </message>
     <message>
         <source>Randomly drop 1 of every &lt;n&gt; network messages</source>
-        <translation>Náhodně zahazovat jednu z každých &lt;n&gt; síťových zpráv</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Randomly fuzz 1 of every &lt;n&gt; network messages</source>
-        <translation>Náhodně pozměňovat jednu z každých &lt;n&gt; síťových zpráv</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Run a thread to flush wallet periodically (default: 1)</source>
-        <translation>Spustit vlákno pročišťující periodicky peněženku (výchozí: 1)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>Možnosti SSL: (viz instrukce nastavení SSL na Bitcoin Wiki)</translation>
+        <source>SSL options: (see the Zetacoin Wiki for SSL setup instructions)</source>
+        <translation>Možnosti SSL: (viz instrukce nastavení SSL v Zetacoin Wiki)</translation>
     </message>
     <message>
-        <source>Send command to Bitcoin Core</source>
-        <translation>Poslat příkaz Bitcoin Core</translation>
+        <source>Send command to Zetacoin Core</source>
+        <translation>Poslat příkaz Zetacoin Core</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -3119,15 +3159,15 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
     </message>
     <message>
         <source>Sets the DB_PRIVATE flag in the wallet db environment (default: 1)</source>
-        <translation>Nastavit příznak DB_PRIVATE v databázovém prostředí peněženky (výchozí: 1)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show all debugging options (usage: --help -help-debug)</source>
-        <translation>Zobrazit všechny možnosti ladění (užití: --help -help-debug)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show benchmark information (default: 0)</source>
-        <translation>Zobrazit výkonnostní informace (výchozí: 0)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
@@ -3142,8 +3182,8 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
         <translation>Zadej časový limit spojení v milisekundách (výchozí: 5000)</translation>
     </message>
     <message>
-        <source>Start Bitcoin Core Daemon</source>
-        <translation>Spustit Bitcoin Core démona</translation>
+        <source>Start Zetacoin Core Daemon</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>System error: </source>
@@ -3183,7 +3223,7 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
     </message>
     <message>
         <source>Zapping all transactions from wallet...</source>
-        <translation>Vymazat všechny transakce z peněženky...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>on startup</source>
@@ -3258,40 +3298,40 @@ například: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
         <translation>Chyba při načítání wallet.dat: peněženka je poškozená</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin</source>
-        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Bitcoinu</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Zetacoin</source>
+        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Zetacoinu</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin to complete</source>
-        <translation>Soubor s peněženkou potřeboval přepsat: restartuj Bitcoin, aby se operace dokončila</translation>
+        <source>Wallet needed to be rewritten: restart Zetacoin to complete</source>
+        <translation>Soubor s peněženkou potřeboval přepsat: restartuj Zetacoin, aby se operace dokončila</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>
         <translation>Chyba při načítání wallet.dat</translation>
     </message>
     <message>
-        <source>Invalid -proxy address: '%s'</source>
-        <translation>Neplatná -proxy adresa: '%s'</translation>
+        <source>Invalid -proxy address: &apos;%s&apos;</source>
+        <translation>Neplatná -proxy adresa: &apos;%s&apos;</translation>
     </message>
     <message>
-        <source>Unknown network specified in -onlynet: '%s'</source>
-        <translation>V -onlynet byla uvedena neznámá síť: '%s'</translation>
+        <source>Unknown network specified in -onlynet: &apos;%s&apos;</source>
+        <translation>V -onlynet byla uvedena neznámá síť: &apos;%s&apos;</translation>
     </message>
     <message>
         <source>Unknown -socks proxy version requested: %i</source>
         <translation>V -socks byla požadována neznámá verze proxy: %i</translation>
     </message>
     <message>
-        <source>Cannot resolve -bind address: '%s'</source>
-        <translation>Nemohu přeložit -bind adresu: '%s'</translation>
+        <source>Cannot resolve -bind address: &apos;%s&apos;</source>
+        <translation>Nemohu přeložit -bind adresu: &apos;%s&apos;</translation>
     </message>
     <message>
-        <source>Cannot resolve -externalip address: '%s'</source>
-        <translation>Nemohu přeložit -externalip adresu: '%s'</translation>
+        <source>Cannot resolve -externalip address: &apos;%s&apos;</source>
+        <translation>Nemohu přeložit -externalip adresu: &apos;%s&apos;</translation>
     </message>
     <message>
-        <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</source>
-        <translation>Neplatná částka pro -paytxfee=&lt;částka&gt;: '%s'</translation>
+        <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
+        <translation>Neplatná částka pro -paytxfee=&lt;částka&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <source>Invalid amount</source>

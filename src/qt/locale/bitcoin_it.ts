@@ -1,13 +1,13 @@
-<TS language="it" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="it" version="2.1">
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>Info su Bitcoin Core</translation>
+        <source>About Zetacoin Core</source>
+        <translation>Info su Zetacoin Core</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Bitcoin Core&lt;/b&gt; version</source>
-        <translation>Versione &lt;b&gt;Bitcoin Core&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Zetacoin Core&lt;/b&gt; version</source>
+        <translation>Versione &lt;b&gt;Zetacoin Core&lt;/b&gt;</translation>
     </message>
     <message>
         <source>
@@ -21,15 +21,15 @@ Questo è un software sperimentale.
 
 Distribuito sotto la licenza software MIT/X11, vedi il file COPYING incluso oppure su http://www.opensource.org/licenses/mit-license.php.
 
-Questo prodotto include software sviluppato dal progetto OpenSSL per l'uso del Toolkit OpenSSL (http://www.openssl.org/), software crittografico scritto da Eric Young (eay@cryptsoft.com) e software UPnP scritto da Thomas Bernard.</translation>
+Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso del Toolkit OpenSSL (http://www.openssl.org/), software crittografico scritto da Eric Young (eay@cryptsoft.com) e software UPnP scritto da Thomas Bernard.</translation>
     </message>
     <message>
         <source>Copyright</source>
         <translation>Copyright</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Gli sviluppatori del Bitcoin Core</translation>
+        <source>The Zetacoin Core developers</source>
+        <translation>Gli sviluppatori del Zetacoin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -40,7 +40,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l'uso del T
     <name>AddressBookPage</name>
     <message>
         <source>Double-click to edit address or label</source>
-        <translation>Doppio click per modificare l'indirizzo o l'etichetta</translation>
+        <translation>Doppio click per modificare l&apos;indirizzo o l&apos;etichetta</translation>
     </message>
     <message>
         <source>Create a new address</source>
@@ -52,7 +52,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l'uso del T
     </message>
     <message>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Copia l'indirizzo attualmente selezionato negli appunti</translation>
+        <translation>Copia l&apos;indirizzo attualmente selezionato negli appunti</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
@@ -64,11 +64,11 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l'uso del T
     </message>
     <message>
         <source>&amp;Copy Address</source>
-        <translation>&amp;Copia l'indirizzo</translation>
+        <translation>&amp;Copia l&apos;indirizzo</translation>
     </message>
     <message>
         <source>Delete the currently selected address from the list</source>
-        <translation>Cancella l'indirizzo attualmente selezionato dalla lista</translation>
+        <translation>Cancella l&apos;indirizzo attualmente selezionato dalla lista</translation>
     </message>
     <message>
         <source>Export the data in the current tab to a file</source>
@@ -84,11 +84,11 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l'uso del T
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Scegli l'indirizzo a cui inviare bitcoin</translation>
+        <translation>Scegli l&apos;indirizzo a cui inviare bitcoin</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Scegli l'indirizzo con cui ricevere bitcoin</translation>
+        <translation>Scegli l&apos;indirizzo con cui ricevere bitcoin</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
@@ -96,23 +96,23 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l'uso del T
     </message>
     <message>
         <source>Sending addresses</source>
-        <translation>Indirizzi d'invio</translation>
+        <translation>Indirizzi d&apos;invio</translation>
     </message>
     <message>
         <source>Receiving addresses</source>
         <translation>Indirizzi di ricezione</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Questo è un elenco di indirizzi bitcoin a cui puoi inviare pagamenti. Controlla sempre l'importo e l'indirizzo del beneficiario prima di inviare bitcoin.</translation>
+        <source>These are your Zetacoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Questo è un elenco di indirizzi bitcoin a cui puoi inviare pagamenti. Controlla sempre l&apos;importo e l&apos;indirizzo del beneficiario prima di inviare bitcoin.</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Zetacoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Questi sono i tuoi indirizzi bitcoin che puoi usare per ricevere pagamenti. Si raccomanda di generare un nuovo indirizzo per ogni transazione.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
-        <translation>Copia &amp;l'etichetta</translation>
+        <translation>Copia &amp;l&apos;etichetta</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -178,7 +178,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l'uso del T
     </message>
     <message>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Quest'operazione necessita della passphrase per sbloccare il portamonete.</translation>
+        <translation>Quest&apos;operazione necessita della passphrase per sbloccare il portamonete.</translation>
     </message>
     <message>
         <source>Unlock wallet</source>
@@ -186,7 +186,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l'uso del T
     </message>
     <message>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Quest'operazione necessita della passphrase per decifrare il portamonete,</translation>
+        <translation>Quest&apos;operazione necessita della passphrase per decifrare il portamonete,</translation>
     </message>
     <message>
         <source>Decrypt wallet</source>
@@ -205,7 +205,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l'uso del T
         <translation>Conferma la cifratura del portamonete</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZETACOINS&lt;/b&gt;!</source>
         <translation>Attenzione: se si cifra il portamonete e si perde la passphrase &lt;b&gt;TUTTI I PROPRI BITCOIN ANDRANNO PERSI&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -225,8 +225,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l'uso del T
         <translation>Portamonete cifrato</translation>
     </message>
     <message>
-        <source>Bitcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin si chiuderà per portare a termine il processo di cifratura. Ricorda che cifrare il tuo portamonete non può fornire una protezione totale contro i furti causati da infezioni malware.</translation>
+        <source>Zetacoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your zetacoins from being stolen by malware infecting your computer.</source>
+        <translation>Zetacoin si chiuderà per portare a termine il processo di cifratura. Ricorda che cifrare il tuo portamonete non può fornire una protezione totale contro i furti causati da infezioni malware.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -296,8 +296,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l'uso del T
         <translation>Chiudi applicazione</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin</source>
-        <translation>Mostra informazioni su Bitcoin</translation>
+        <source>Show information about Zetacoin</source>
+        <translation>Mostra informazioni su Zetacoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -325,7 +325,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l'uso del T
     </message>
     <message>
         <source>&amp;Sending addresses...</source>
-        <translation>&amp;Indirizzi d'invio...</translation>
+        <translation>&amp;Indirizzi d&apos;invio...</translation>
     </message>
     <message>
         <source>&amp;Receiving addresses...</source>
@@ -344,11 +344,11 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l'uso del T
         <translation>Re-indicizzazione blocchi su disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Zetacoin address</source>
         <translation>Invia monete ad un indirizzo bitcoin</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin</source>
+        <source>Modify configuration options for Zetacoin</source>
         <translation>Modifica opzioni di configurazione per bitcoin</translation>
     </message>
     <message>
@@ -372,8 +372,8 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l'uso del T
         <translation>&amp;Verifica messaggio...</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Zetacoin</source>
+        <translation>Zetacoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -400,11 +400,11 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l'uso del T
         <translation>Cifra le chiavi private che appartengono al tuo portamonete</translation>
     </message>
     <message>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
+        <source>Sign messages with your Zetacoin addresses to prove you own them</source>
         <translation>Firma i messaggi con il tuo indirizzo bitcoin per dimostrarne il possesso</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Zetacoin addresses</source>
         <translation>Verifica i messaggi per accertare che siano stati firmati con gli indirizzi bitcoin specificati</translation>
     </message>
     <message>
@@ -421,23 +421,23 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l'uso del T
     </message>
     <message>
         <source>Tabs toolbar</source>
-        <translation>Barra degli strumenti "Tabs"</translation>
+        <translation>Barra degli strumenti &quot;Tabs&quot;</translation>
     </message>
     <message>
         <source>[testnet]</source>
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Zetacoin Core</source>
+        <translation>Zetacoin Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Richiedi pagamenti (genera codici QR e bitcoin: URI)</translation>
+        <source>Request payments (generates QR codes and zetacoind: URIs)</source>
+        <translation>Richiedi pagamenti (genera codici QR e zetacoind: URI)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>Info su Bitcoin Core</translation>
+        <source>&amp;About Zetacoin Core</source>
+        <translation>Info su Zetacoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -448,7 +448,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l'uso del T
         <translation>Mostra la lista degli indirizzi di ricezione utilizzati</translation>
     </message>
     <message>
-        <source>Open a bitcoin: URI or payment request</source>
+        <source>Open a zetacoind: URI or payment request</source>
         <translation>Apri un URI o una richiesta di pagamento</translation>
     </message>
     <message>
@@ -456,16 +456,16 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l'uso del T
         <translation>Opzioni riga di &amp;comando</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Mostra il messaggio di aiuto di Bitcoin Core per avere la lista di tutte le opzioni della riga di comando di Bitcoin.</translation>
+        <source>Show the Zetacoin Core help message to get a list with possible Zetacoin command-line options</source>
+        <translation>Mostra il messaggio di aiuto di Zetacoin Core per avere la lista di tutte le opzioni della riga di comando di Zetacoin.</translation>
     </message>
     <message>
-        <source>Bitcoin client</source>
-        <translation>Bitcoin client</translation>
+        <source>Zetacoin client</source>
+        <translation>Zetacoin client</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Bitcoin network</source>
-        <translation><numerusform>%n connessione attiva alla rete Bitcoin</numerusform><numerusform>%n connessioni attive alla rete Bitcoin</numerusform></translation>
+        <source>%n active connection(s) to Zetacoin network</source>
+        <translation><numerusform>%n connessione attiva alla rete Zetacoin</numerusform><numerusform>%n connessioni attive alla rete Zetacoin</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -505,7 +505,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l'uso del T
     </message>
     <message>
         <source>Last received block was generated %1 ago.</source>
-        <translation>L'ultimo blocco ricevuto è stato generato %1 fa.</translation>
+        <translation>L&apos;ultimo blocco ricevuto è stato generato %1 fa.</translation>
     </message>
     <message>
         <source>Transactions after this will not yet be visible.</source>
@@ -561,8 +561,8 @@ Indirizzo: %4
         <translation>Il portamonete è &lt;b&gt;cifrato&lt;/b&gt; ed attualmente &lt;b&gt;bloccato&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Bitcoin can no longer continue safely and will quit.</source>
-        <translation>Riscontrato un errore irreversibile. Bitcoin non può più continuare in sicurezza e sarà terminato.</translation>
+        <source>A fatal error occurred. Zetacoin can no longer continue safely and will quit.</source>
+        <translation>Riscontrato un errore irreversibile. Zetacoin non può più continuare in sicurezza e sarà terminato.</translation>
     </message>
 </context>
 <context>
@@ -648,19 +648,19 @@ Indirizzo: %4
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Copia l'indirizzo</translation>
+        <translation>Copia l&apos;indirizzo</translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>Copia l'etichetta</translation>
+        <translation>Copia l&apos;etichetta</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Copia l'importo</translation>
+        <translation>Copia l&apos;importo</translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>Copia l'ID transazione</translation>
+        <translation>Copia l&apos;ID transazione</translation>
     </message>
     <message>
         <source>Lock unspent</source>
@@ -771,8 +771,8 @@ Indirizzo: %4
         <translation>Le transazioni con priorità più alta hanno più probabilità di essere incluse in un blocco.</translation>
     </message>
     <message>
-        <source>This label turns red, if the priority is smaller than "medium".</source>
-        <translation>Questa etichetta diventa rossa se la priorità è inferiore a "media".</translation>
+        <source>This label turns red, if the priority is smaller than &quot;medium&quot;.</source>
+        <translation>Questa etichetta diventa rossa se la priorità è inferiore a &quot;media&quot;.</translation>
     </message>
     <message>
         <source>This label turns red, if any recipient receives an amount smaller than %1.</source>
@@ -807,7 +807,7 @@ Indirizzo: %4
     <name>EditAddressDialog</name>
     <message>
         <source>Edit Address</source>
-        <translation>Modifica l'indirizzo</translation>
+        <translation>Modifica l&apos;indirizzo</translation>
     </message>
     <message>
         <source>&amp;Label</source>
@@ -815,11 +815,11 @@ Indirizzo: %4
     </message>
     <message>
         <source>The label associated with this address list entry</source>
-        <translation>L'etichetta associata con questa voce della lista degli indirizzi</translation>
+        <translation>L&apos;etichetta associata con questa voce della lista degli indirizzi</translation>
     </message>
     <message>
         <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
-        <translation>L'indirizzo associato a questa voce della rubrica. Può essere modificato solo per gli indirizzi d'invio.</translation>
+        <translation>L&apos;indirizzo associato a questa voce della rubrica. Può essere modificato solo per gli indirizzi d&apos;invio.</translation>
     </message>
     <message>
         <source>&amp;Address</source>
@@ -831,7 +831,7 @@ Indirizzo: %4
     </message>
     <message>
         <source>New sending address</source>
-        <translation>Nuovo indirizzo d'invio</translation>
+        <translation>Nuovo indirizzo d&apos;invio</translation>
     </message>
     <message>
         <source>Edit receiving address</source>
@@ -839,15 +839,15 @@ Indirizzo: %4
     </message>
     <message>
         <source>Edit sending address</source>
-        <translation>Modifica indirizzo d'invio</translation>
+        <translation>Modifica indirizzo d&apos;invio</translation>
     </message>
     <message>
-        <source>The entered address "%1" is already in the address book.</source>
-        <translation>L'indirizzo inserito "%1" è già in rubrica.</translation>
+        <source>The entered address &quot;%1&quot; is already in the address book.</source>
+        <translation>L&apos;indirizzo inserito &quot;%1&quot; è già in rubrica.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>L'indirizzo inserito "%1" non è un indirizzo bitcoin valido.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Zetacoin address.</source>
+        <translation>L&apos;indirizzo inserito &quot;%1&quot; non è un indirizzo bitcoin valido.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -884,12 +884,12 @@ Indirizzo: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core - Command-line options</source>
-        <translation>Bitcoin Core - Opzioni riga di comando</translation>
+        <source>Zetacoin Core - Command-line options</source>
+        <translation>Zetacoin Core - Opzioni riga di comando</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Zetacoin Core</source>
+        <translation>Zetacoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -908,8 +908,8 @@ Indirizzo: %4
         <translation>UI opzioni</translation>
     </message>
     <message>
-        <source>Set language, for example "de_DE" (default: system locale)</source>
-        <translation>Imposta lingua, ad esempio "it_IT" (predefinita: lingua di sistema)</translation>
+        <source>Set language, for example &quot;de_DE&quot; (default: system locale)</source>
+        <translation>Imposta lingua, ad esempio &quot;it_IT&quot; (predefinita: lingua di sistema)</translation>
     </message>
     <message>
         <source>Start minimized</source>
@@ -921,11 +921,11 @@ Indirizzo: %4
     </message>
     <message>
         <source>Show splash screen on startup (default: 1)</source>
-        <translation>Mostra finestra di presentazione all'avvio (predefinito: 1)</translation>
+        <translation>Mostra finestra di presentazione all&apos;avvio (predefinito: 1)</translation>
     </message>
     <message>
         <source>Choose data directory on startup (default: 0)</source>
-        <translation>Scegli una cartella dati all'avvio (predefinito: 0)</translation>
+        <translation>Scegli una cartella dati all&apos;avvio (predefinito: 0)</translation>
     </message>
 </context>
 <context>
@@ -935,16 +935,16 @@ Indirizzo: %4
         <translation>Benvenuto</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Benvenuti su Bitcoin Core.</translation>
+        <source>Welcome to Zetacoin Core.</source>
+        <translation>Benvenuti su Zetacoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
-        <translation>Visto che questa è la prima volta che il programma viene lanciato, puoi scegliere dove Bitcoin Core salverà i propri dati.</translation>
+        <source>As this is the first time the program is launched, you can choose where Zetacoin Core will store its data.</source>
+        <translation>Visto che questa è la prima volta che il programma viene lanciato, puoi scegliere dove Zetacoin Core salverà i propri dati.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bitcoin Core scaricherà e salverà una copia del block chain di Bitcoin. Almeno %1GB di dati che andranno ad aumentare col tempo saranno salvati in questa cartella. Anche il portamonete sarà salvato in questa cartella.</translation>
+        <source>Zetacoin Core will download and store a copy of the Zetacoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Zetacoin Core scaricherà e salverà una copia del block chain di Zetacoin. Almeno %1GB di dati che andranno ad aumentare col tempo saranno salvati in questa cartella. Anche il portamonete sarà salvato in questa cartella.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -955,12 +955,12 @@ Indirizzo: %4
         <translation>Usa una cartella dati personalizzata:</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Zetacoin</source>
+        <translation>Zetacoin</translation>
     </message>
     <message>
-        <source>Error: Specified data directory "%1" can not be created.</source>
-        <translation>Errore: La cartella dati "%1" specificata non può essere creata.</translation>
+        <source>Error: Specified data directory &quot;%1&quot; can not be created.</source>
+        <translation>Errore: La cartella dati &quot;%1&quot; specificata non può essere creata.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1017,12 +1017,12 @@ Indirizzo: %4
         <translation>Paga la &amp;commissione</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin after logging in to the system.</source>
-        <translation>Avvia automaticamente Bitcoin una volta effettuato l'accesso al sistema.</translation>
+        <source>Automatically start Zetacoin after logging in to the system.</source>
+        <translation>Avvia automaticamente Zetacoin una volta effettuato l&apos;accesso al sistema.</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin on system login</source>
-        <translation>&amp;Avvia Bitcoin all'accesso al sistema</translation>
+        <source>&amp;Start Zetacoin on system login</source>
+        <translation>&amp;Avvia Zetacoin all&apos;accesso al sistema</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1037,8 +1037,8 @@ Indirizzo: %4
         <translation>Numero di thread di &amp;verifica degli script </translation>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a SOCKS proxy.</source>
-        <translation>Connessione alla rete Bitcoin attraverso un proxy SOCKS.</translation>
+        <source>Connect to the Zetacoin network through a SOCKS proxy.</source>
+        <translation>Connessione alla rete Zetacoin attraverso un proxy SOCKS.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS proxy (default proxy):</source>
@@ -1050,7 +1050,7 @@ Indirizzo: %4
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
-        <translation>URL di terze parti (es: un block explorer) che appaiono nella tabella delle transazioni come voci nel menu contestuale. %s nell'URL è sostituito dall'hash della transazione.
+        <translation>URL di terze parti (es: un block explorer) che appaiono nella tabella delle transazioni come voci nel menu contestuale. %s nell&apos;URL è sostituito dall&apos;hash della transazione.
 Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
@@ -1091,11 +1091,15 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>If you disable the spending of unconfirmed change, the change from a transaction cannot be used until that transaction has at least one confirmation. This also affects how your balance is computed.</source>
-        <translation>Disabilitando l'uso di resti non confermati, il resto di una transazione non potrà essere speso fino a quando la transazione non avrà ottenuto almeno una conferma. Questa impostazione influisce inoltre sul calcolo saldo.</translation>
+        <translation>Disabilitando l&apos;uso di resti non confermati, il resto di una transazione non potrà essere speso fino a quando la transazione non avrà ottenuto almeno una conferma. Questa impostazione influisce inoltre sul calcolo saldo.</translation>
     </message>
     <message>
-        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Apri automaticamente la porta del client Bitcoin sul router. Il protocollo UPnP deve essere supportato da parte del router ed attivo.</translation>
+        <source>&amp;Spend unconfirmed change</source>
+        <translation>%Spendere resti non confermati</translation>
+    </message>
+    <message>
+        <source>Automatically open the Zetacoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Apri automaticamente la porta del client Zetacoin sul router. Il protocollo UPnP deve essere supportato da parte del router ed attivo.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1135,7 +1139,7 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Riduci ad icona invece di uscire dall'applicazione quando la finestra viene chiusa. Se l'opzione è attiva, l'applicazione terminerà solo dopo aver selezionato Esci dal menu File.</translation>
+        <translation>Riduci ad icona invece di uscire dall&apos;applicazione quando la finestra viene chiusa. Se l&apos;opzione è attiva, l&apos;applicazione terminerà solo dopo aver selezionato Esci dal menu File.</translation>
     </message>
     <message>
         <source>M&amp;inimize on close</source>
@@ -1150,8 +1154,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>&amp;Lingua Interfaccia Utente:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin.</source>
-        <translation>La lingua dell'interfaccia utente può essere impostata qui. L'impostazione avrà effetto dopo il riavvio di Bitcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Zetacoin.</source>
+        <translation>La lingua dell&apos;interfaccia utente può essere impostata qui. L&apos;impostazione avrà effetto dopo il riavvio di Zetacoin.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1159,10 +1163,10 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Scegli l'unità di suddivisione predefinita da utilizzare per l'interfaccia e per l'invio di monete.</translation>
+        <translation>Scegli l&apos;unità di suddivisione predefinita da utilizzare per l&apos;interfaccia e per l&apos;invio di monete.</translation>
     </message>
     <message>
-        <source>Whether to show Bitcoin addresses in the transaction list or not.</source>
+        <source>Whether to show Zetacoin addresses in the transaction list or not.</source>
         <translation>Specifica se gli indirizzi saranno visualizzati nella lista delle transazioni.</translation>
     </message>
     <message>
@@ -1207,7 +1211,7 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>The supplied proxy address is invalid.</source>
-        <translation>L'indirizzo proxy che hai fornito è invalido.</translation>
+        <translation>L&apos;indirizzo proxy che hai fornito è invalido.</translation>
     </message>
 </context>
 <context>
@@ -1217,8 +1221,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Modulo</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Le informazioni visualizzate potrebbero non essere aggiornate. Il portamonete si sincronizza automaticamente con la rete Bitcoin una volta stabilita una connessione, ma questo processo non è ancora stato completato.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Zetacoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Le informazioni visualizzate potrebbero non essere aggiornate. Il portamonete si sincronizza automaticamente con la rete Zetacoin una volta stabilita una connessione, ma questo processo non è ancora stato completato.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1272,27 +1276,27 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Gestione URI</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation>Impossibile interpretare l'URI! Ciò può essere provocato da un indirizzo Bitcoin non valido o da parametri URI non corretti.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Zetacoin address or malformed URI parameters.</source>
+        <translation>Impossibile interpretare l&apos;URI! Ciò può essere provocato da un indirizzo Zetacoin non valido o da parametri URI non corretti.</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
-        <translation>L'importo di pagamento richiesto di %1 è troppo basso (considerato come trascurabile).</translation>
+        <translation>L&apos;importo di pagamento richiesto di %1 è troppo basso (considerato come trascurabile).</translation>
     </message>
     <message>
         <source>Payment request error</source>
         <translation>Errore di richiesta di pagamento</translation>
     </message>
     <message>
-        <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>Impossibile avviare bitcoin: gestore click-to-pay</translation>
+        <source>Cannot start zetacoind: click-to-pay handler</source>
+        <translation>Impossibile avviare zetacoind: gestore click-to-pay</translation>
     </message>
     <message>
         <source>Net manager warning</source>
         <translation>Avviso Net manager</translation>
     </message>
     <message>
-        <source>Your active proxy doesn't support SOCKS5, which is required for payment requests via proxy.</source>
+        <source>Your active proxy doesn&apos;t support SOCKS5, which is required for payment requests via proxy.</source>
         <translation>Il proxy attualmente attivo non supporta SOCKS5, il quale è necessario per richieste di pagamento via proxy.</translation>
     </message>
     <message>
@@ -1339,12 +1343,12 @@ Più URL vengono separati da una barra verticale |.</translation>
 <context>
     <name>QObject</name>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Zetacoin</source>
+        <translation>Zetacoin</translation>
     </message>
     <message>
-        <source>Error: Specified data directory "%1" does not exist.</source>
-        <translation>Errore: La cartella dati "%1" specificata non esiste.</translation>
+        <source>Error: Specified data directory &quot;%1&quot; does not exist.</source>
+        <translation>Errore: La cartella dati &quot;%1&quot; specificata non esiste.</translation>
     </message>
     <message>
         <source>Error: Cannot parse configuration file: %1. Only use key=value syntax.</source>
@@ -1355,12 +1359,12 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Errore: combinazione di -regtest e -testnet non valida.</translation>
     </message>
     <message>
-        <source>Bitcoin Core didn't yet exit safely...</source>
-        <translation>Bitcoin Core non si è ancora chiuso con sicurezza...</translation>
+        <source>Zetacoin Core didn&apos;t yet exit safely...</source>
+        <translation>Zetacoin Core non si è ancora chiuso con sicurezza...</translation>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Inserisci un indirizzo Bitcoin (ad esempio 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Zetacoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Inserisci un indirizzo Zetacoin (ad esempio 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1481,16 +1485,16 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>File log del Debug</translation>
     </message>
     <message>
-        <source>Open the Bitcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Apri il file di log del debug di Bitcoin dalla cartella attuale. Può richiedere alcuni secondi per file di log grandi.</translation>
+        <source>Open the Zetacoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Apri il file di log del debug di Zetacoin dalla cartella attuale. Può richiedere alcuni secondi per file di log grandi.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Cancella console</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin RPC console.</source>
-        <translation>Benvenuto nella console RPC di Bitcoin</translation>
+        <source>Welcome to the Zetacoin RPC console.</source>
+        <translation>Benvenuto nella console RPC di Zetacoin</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1552,12 +1556,12 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>R&amp;iusa un indirizzo di ricezione (non raccomandato)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation>Un messaggio opzionale da allegare alla richiesta di pagamento, il quale sarà mostrato all'apertura della richiesta. Nota: Il messaggio non sarà inviato con il pagamento sulla rete Bitcoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Zetacoin network.</source>
+        <translation>Un messaggio opzionale da allegare alla richiesta di pagamento, il quale sarà mostrato all&apos;apertura della richiesta. Nota: Il messaggio non sarà inviato con il pagamento sulla rete Zetacoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
-        <translation>Un'etichetta facoltativa da associare al nuovo indirizzo di ricezione</translation>
+        <translation>Un&apos;etichetta facoltativa da associare al nuovo indirizzo di ricezione</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -1601,7 +1605,7 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>Copia l'etichetta</translation>
+        <translation>Copia l&apos;etichetta</translation>
     </message>
     <message>
         <source>Copy message</source>
@@ -1609,7 +1613,7 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Copia l'importo</translation>
+        <translation>Copia l&apos;importo</translation>
     </message>
 </context>
 <context>
@@ -1660,11 +1664,11 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>Resulting URI too long, try to reduce the text for label / message.</source>
-        <translation>L'URI risultante è troppo lungo, prova a ridurre il testo nell'etichetta / messaggio.</translation>
+        <translation>L&apos;URI risultante è troppo lungo, prova a ridurre il testo nell&apos;etichetta / messaggio.</translation>
     </message>
     <message>
         <source>Error encoding URI into QR Code.</source>
-        <translation>Errore nella codifica dell'URI nel codice QR</translation>
+        <translation>Errore nella codifica dell&apos;URI nel codice QR</translation>
     </message>
 </context>
 <context>
@@ -1702,7 +1706,7 @@ Più URL vengono separati da una barra verticale |.</translation>
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Invia Bitcoin</translation>
+        <translation>Invia Zetacoin</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -1754,7 +1758,7 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
-        <translation>Se questo è abilitato e l'indirizzo per il resto è vuoto o invalido, il resto sarà inviato ad un nuovo indirizzo bitcoin generato appositamente.</translation>
+        <translation>Se questo è abilitato e l&apos;indirizzo per il resto è vuoto o invalido, il resto sarà inviato ad un nuovo indirizzo bitcoin generato appositamente.</translation>
     </message>
     <message>
         <source>Custom change address</source>
@@ -1782,7 +1786,7 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>Confirm the send action</source>
-        <translation>Conferma l'azione di invio</translation>
+        <translation>Conferma l&apos;azione di invio</translation>
     </message>
     <message>
         <source>S&amp;end</source>
@@ -1790,7 +1794,7 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>Conferma l'invio di bitcoin</translation>
+        <translation>Conferma l&apos;invio di bitcoin</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -1802,7 +1806,7 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Copia l'importo</translation>
+        <translation>Copia l&apos;importo</translation>
     </message>
     <message>
         <source>Copy fee</source>
@@ -1838,15 +1842,15 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation>L'indirizzo del beneficiario non è valido, si prega di ricontrollare.</translation>
+        <translation>L&apos;indirizzo del beneficiario non è valido, si prega di ricontrollare.</translation>
     </message>
     <message>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>L'importo da pagare dev'essere maggiore di 0.</translation>
+        <translation>L&apos;importo da pagare dev&apos;essere maggiore di 0.</translation>
     </message>
     <message>
         <source>The amount exceeds your balance.</source>
-        <translation>L'importo è superiore al tuo saldo attuale</translation>
+        <translation>L&apos;importo è superiore al tuo saldo attuale</translation>
     </message>
     <message>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
@@ -1854,7 +1858,7 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation>Rilevato un indirizzo duplicato, è possibile inviare bitcoin una sola volta agli indirizzi durante un'operazione di invio.</translation>
+        <translation>Rilevato un indirizzo duplicato, è possibile inviare bitcoin una sola volta agli indirizzi durante un&apos;operazione di invio.</translation>
     </message>
     <message>
         <source>Transaction creation failed!</source>
@@ -1865,8 +1869,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>La transazione è stata rifiutata! Questo può accadere se alcuni bitcoin nel tuo portamonete sono già stati spesi, ad esempio se hai utilizzato una copia del file wallet.dat per spendere bitcoin e questi non sono stati considerati spesi dal portamonete corrente.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Bitcoin address</source>
-        <translation>Attenzione: Indirizzo Bitcoin non valido</translation>
+        <source>Warning: Invalid Zetacoin address</source>
+        <translation>Attenzione: Indirizzo Zetacoin non valido</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1905,11 +1909,11 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>The address to send the payment to (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>L'indirizzo del beneficiario a cui inviare il pagamento (ad esempio 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>L&apos;indirizzo del beneficiario a cui inviare il pagamento (ad esempio 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Inserisci un'etichetta per questo indirizzo, per aggiungerlo nella rubrica</translation>
+        <translation>Inserisci un&apos;etichetta per questo indirizzo, per aggiungerlo nella rubrica</translation>
     </message>
     <message>
         <source>&amp;Label:</source>
@@ -1929,7 +1933,7 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Incollare l'indirizzo dagli appunti</translation>
+        <translation>Incollare l&apos;indirizzo dagli appunti</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -1949,11 +1953,11 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>Enter a label for this address to add it to the list of used addresses</source>
-        <translation>Inserisci un'etichetta per questo indirizzo per aggiungerlo alla lista degli indirizzi utilizzati</translation>
+        <translation>Inserisci un&apos;etichetta per questo indirizzo per aggiungerlo alla lista degli indirizzi utilizzati</translation>
     </message>
     <message>
-        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>Messaggio incluso nel bitcoin URI e che sarà memorizzato con la transazione per vostro riferimento. Nota: Questo messaggio non sarà inviato attraverso la rete Bitcoin.</translation>
+        <source>A message that was attached to the zetacoind: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Zetacoin network.</source>
+        <translation>Messaggio incluso nel bitcoin URI e che sarà memorizzato con la transazione per vostro riferimento. Nota: Questo messaggio non sarà inviato attraverso la rete Zetacoin.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -1971,8 +1975,8 @@ Più URL vengono separati da una barra verticale |.</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
-        <translation>Arresto di Bitcoin Core in corso...</translation>
+        <source>Zetacoin Core is shutting down...</source>
+        <translation>Arresto di Zetacoin Core in corso...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1995,7 +1999,7 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>The address to sign the message with (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>L'indirizzo con cui firmare il messaggio (ad esempio 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>L&apos;indirizzo con cui firmare il messaggio (ad esempio 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2007,7 +2011,7 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>Paste address from clipboard</source>
-        <translation>Incolla l'indirizzo dagli appunti</translation>
+        <translation>Incolla l&apos;indirizzo dagli appunti</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -2026,7 +2030,7 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Copia la firma corrente nella clipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bitcoin address</source>
+        <source>Sign the message to prove you own this Zetacoin address</source>
         <translation>Firma un messaggio per dimostrare di possedere questo indirizzo</translation>
     </message>
     <message>
@@ -2047,15 +2051,15 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
-        <translation>Inserisci l'indirizzo del firmatario, il messaggio (assicurati di copiare esattamente anche i ritorni a capo, gli spazi, le tabulazioni, etc..) e la firma qui sotto, per verificare il messaggio. Presta attenzione a non vedere nella firma più di quanto non sia riportato nel messaggio stesso, per evitare di cadere vittima di attacchi di tipo man-in-the-middle.</translation>
+        <translation>Inserisci l&apos;indirizzo del firmatario, il messaggio (assicurati di copiare esattamente anche i ritorni a capo, gli spazi, le tabulazioni, etc..) e la firma qui sotto, per verificare il messaggio. Presta attenzione a non vedere nella firma più di quanto non sia riportato nel messaggio stesso, per evitare di cadere vittima di attacchi di tipo man-in-the-middle.</translation>
     </message>
     <message>
         <source>The address the message was signed with (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>L'indirizzo con cui è stato firmato il messaggio (ad esempio 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>L&apos;indirizzo con cui è stato firmato il messaggio (ad esempio 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Verifica il messaggio per accertare che sia stato firmato con l'indirizzo specificato</translation>
+        <source>Verify the message to ensure it was signed with the specified Zetacoin address</source>
+        <translation>Verifica il messaggio per accertare che sia stato firmato con l&apos;indirizzo specificato</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2066,24 +2070,24 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Reimposta tutti i campi della verifica messaggio</translation>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Inserisci un indirizzo Bitcoin (ad esempio 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Zetacoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Inserisci un indirizzo Zetacoin (ad esempio 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Click "Sign Message" to generate signature</source>
-        <translation>Clicca "Firma il messaggio" per ottenere la firma</translation>
+        <source>Click &quot;Sign Message&quot; to generate signature</source>
+        <translation>Clicca &quot;Firma il messaggio&quot; per ottenere la firma</translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
-        <translation>L'indirizzo inserito non è valido.</translation>
+        <translation>L&apos;indirizzo inserito non è valido.</translation>
     </message>
     <message>
         <source>Please check the address and try again.</source>
-        <translation>Per favore controlla l'indirizzo e prova ancora</translation>
+        <translation>Per favore controlla l&apos;indirizzo e prova ancora</translation>
     </message>
     <message>
         <source>The entered address does not refer to a key.</source>
-        <translation>L'indirizzo bitcoin inserito non è associato a nessuna chiave.</translation>
+        <translation>L&apos;indirizzo bitcoin inserito non è associato a nessuna chiave.</translation>
     </message>
     <message>
         <source>Wallet unlock was cancelled.</source>
@@ -2091,7 +2095,7 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>Private key for the entered address is not available.</source>
-        <translation>La chiave privata per l'indirizzo inserito non è disponibile.</translation>
+        <translation>La chiave privata per l&apos;indirizzo inserito non è disponibile.</translation>
     </message>
     <message>
         <source>Message signing failed.</source>
@@ -2125,12 +2129,12 @@ Più URL vengono separati da una barra verticale |.</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>Zetacoin Core</source>
+        <translation>Zetacoin Core</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Gli sviluppatori del Bitcoin Core</translation>
+        <source>The Zetacoin Core developers</source>
+        <translation>Gli sviluppatori del Zetacoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2243,8 +2247,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Mercante</translation>
     </message>
     <message>
-        <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>È necessario attendere %1 blocchi prima che i bitcoin generati possano essere spesi. Quando è stato generato questo blocco, è stato trasmesso alla rete in modo da poter essere aggiunto alla block chain. Se l'inserimento avrà esito negativo il suo stato sarà modificato in "non accettato" e risulterà non spendibile. Questo può occasionalmente accadere se un altro nodo genera un blocco entro pochi secondi dal tuo.</translation>
+        <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>È necessario attendere %1 blocchi prima che i bitcoin generati possano essere spesi. Quando è stato generato questo blocco, è stato trasmesso alla rete in modo da poter essere aggiunto alla block chain. Se l&apos;inserimento avrà esito negativo il suo stato sarà modificato in &quot;non accettato&quot; e risulterà non spendibile. Questo può occasionalmente accadere se un altro nodo genera un blocco entro pochi secondi dal tuo.</translation>
     </message>
     <message>
         <source>Debug information</source>
@@ -2421,7 +2425,7 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>This year</source>
-        <translation>Quest'anno</translation>
+        <translation>Quest&apos;anno</translation>
     </message>
     <message>
         <source>Range...</source>
@@ -2449,7 +2453,7 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>Enter address or label to search</source>
-        <translation>Inserisci un indirizzo o un'etichetta da cercare</translation>
+        <translation>Inserisci un indirizzo o un&apos;etichetta da cercare</translation>
     </message>
     <message>
         <source>Min amount</source>
@@ -2457,23 +2461,23 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation>Copia l'indirizzo</translation>
+        <translation>Copia l&apos;indirizzo</translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation>Copia l'etichetta</translation>
+        <translation>Copia l&apos;etichetta</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Copia l'importo</translation>
+        <translation>Copia l&apos;importo</translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation>Copia l'ID transazione</translation>
+        <translation>Copia l&apos;ID transazione</translation>
     </message>
     <message>
         <source>Edit label</source>
-        <translation>Modifica l'etichetta</translation>
+        <translation>Modifica l&apos;etichetta</translation>
     </message>
     <message>
         <source>Show transaction details</source>
@@ -2497,7 +2501,7 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>The transaction history was successfully saved to %1.</source>
-        <translation>Lo storico delle transazioni e' stato salvato con successo in %1.</translation>
+        <translation>Lo storico delle transazioni e&apos; stato salvato con successo in %1.</translation>
     </message>
     <message>
         <source>Comma separated file (*.csv)</source>
@@ -2551,7 +2555,7 @@ Più URL vengono separati da una barra verticale |.</translation>
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Invia Bitcoin</translation>
+        <translation>Invia Zetacoin</translation>
     </message>
 </context>
 <context>
@@ -2608,12 +2612,12 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Opzioni:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: bitcoin.conf)</source>
-        <translation>Specifica il file di configurazione (predefinito: bitcoin.conf)</translation>
+        <source>Specify configuration file (default: zetacoin.conf)</source>
+        <translation>Specifica il file di configurazione (predefinito: zetacoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: bitcoind.pid)</source>
-        <translation>Specifica il file pid (predefinito: bitcoind.pid)</translation>
+        <source>Specify pid file (default: zetacoind.pid)</source>
+        <translation>Specifica il file pid (predefinito: zetacoind.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -2645,7 +2649,7 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>An error occurred while setting up the RPC port %u for listening on IPv4: %s</source>
-        <translation>Errore riscontrato durante l'impostazione della porta RPC %u per l'ascolto su IPv4: %s</translation>
+        <translation>Errore riscontrato durante l&apos;impostazione della porta RPC %u per l&apos;ascolto su IPv4: %s</translation>
     </message>
     <message>
         <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 8332 or testnet: 18332)</source>
@@ -2656,8 +2660,8 @@ Più URL vengono separati da una barra verticale |.</translation>
         <translation>Accetta comandi da riga di comando e JSON-RPC</translation>
     </message>
     <message>
-        <source>Bitcoin Core RPC client version</source>
-        <translation>Versione client RPC di Bitcoin Core</translation>
+        <source>Zetacoin Core RPC client version</source>
+        <translation>Versione client RPC di Zetacoin Core</translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
@@ -2669,30 +2673,30 @@ Più URL vengono separati da una barra verticale |.</translation>
     </message>
     <message>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
-        <translation>Accetta connessioni dall'esterno (predefinito: 1 se no -proxy o -connect)</translation>
+        <translation>Accetta connessioni dall&apos;esterno (predefinito: 1 se no -proxy o -connect)</translation>
     </message>
     <message>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=bitcoinrpc
+rpcuser=zetacoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Zetacoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, devi impostare una rpcpassword nel file di configurazione:
 %s
-Si raccomanda l'uso della seguente password generata casualmente:
-rpcuser=bitcoinrpc
+Si raccomanda l&apos;uso della seguente password generata casualmente:
+rpcuser=zetacoinrpc
 rpcpassword=%s
 (non serve ricordare questa password)
 Il nome utente e la password NON DEVONO essere uguali.
 Se il file non esiste, crealo concedendo permessi di lettura al solo proprietario del file.
 Si raccomanda anche di impostare alertnotify così sarai avvisato di eventuali problemi;
-ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
+ad esempio: alertnotify=echo %%s | mail -s &quot;Allarme Zetacoin&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2701,11 +2705,11 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>An error occurred while setting up the RPC port %u for listening on IPv6, falling back to IPv4: %s</source>
-        <translation>Errore riscontrato durante l'impostazione della porta RPC %u per l'ascolto su IPv6, tornando su IPv4: %s</translation>
+        <translation>Errore riscontrato durante l&apos;impostazione della porta RPC %u per l&apos;ascolto su IPv6, tornando su IPv4: %s</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
-        <translation>Associa all'indirizzo indicato e resta permanentemente in ascolto su questo. Usa la notazione [host]:porta per l'IPv6</translation>
+        <translation>Associa all&apos;indirizzo indicato e resta permanentemente in ascolto su questo. Usa la notazione [host]:porta per l&apos;IPv6</translation>
     </message>
     <message>
         <source>Continuously rate-limit free transactions to &lt;n&gt;*1000 bytes per minute (default:15)</source>
@@ -2721,7 +2725,7 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>Error: Listening for incoming connections failed (listen returned error %d)</source>
-        <translation>Errore: l'ascolto per le connessioni in ingresso non è riuscito (errore riportato %d) </translation>
+        <translation>Errore: l&apos;ascolto per le connessioni in ingresso non è riuscito (errore riportato %d) </translation>
     </message>
     <message>
         <source>Error: The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
@@ -2729,7 +2733,7 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds!</source>
-        <translation>Errore: questa transazione necessita di una commissione di almeno %s a causa del suo ammontare, della sua complessità, o dell'uso di fondi recentemente ricevuti!</translation>
+        <translation>Errore: questa transazione necessita di una commissione di almeno %s a causa del suo ammontare, della sua complessità, o dell&apos;uso di fondi recentemente ricevuti!</translation>
     </message>
     <message>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
@@ -2741,7 +2745,7 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: 100)</source>
-        <translation>Scarica l'attività del database dalla memoria al log su disco ogni &lt;n&gt; megabytes (predefinito: 100)</translation>
+        <translation>Scarica l&apos;attività del database dalla memoria al log su disco ogni &lt;n&gt; megabytes (predefinito: 100)</translation>
     </message>
     <message>
         <source>How thorough the block verification of -checkblocks is (0-4, default: 3)</source>
@@ -2764,8 +2768,8 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
         <translation>Questa versione è una compilazione pre-rilascio - usala a tuo rischio - non utilizzarla per la generazione o per applicazioni di commercio</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
-        <translation>Impossibile associarsi a %s su questo computer. Probabilmente Bitcoin Core è già in esecuzione.</translation>
+        <source>Unable to bind to %s on this computer. Zetacoin Core is probably already running.</source>
+        <translation>Impossibile associarsi a %s su questo computer. Probabilmente Zetacoin Core è già in esecuzione.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: -proxy)</source>
@@ -2776,12 +2780,12 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
         <translation>Attenzione: -paytxfee è molto alta. Questa è la commissione che si paga quando si invia una transazione.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Bitcoin will not work properly.</source>
-        <translation>Attenzione: si prega di controllare che la data e l'ora del computer siano corrette. Se l'ora di sistema è errata Bitcoin non funzionerà correttamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Zetacoin will not work properly.</source>
+        <translation>Attenzione: si prega di controllare che la data e l&apos;ora del computer siano corrette. Se l&apos;ora di sistema è errata Zetacoin non funzionerà correttamente.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
-        <translation>Attenzione: La rete non sembra essere d'accordo pienamente! Alcuni minatori sembrano riscontrare problemi.</translation>
+        <translation>Attenzione: La rete non sembra essere d&apos;accordo pienamente! Alcuni minatori sembrano riscontrare problemi.</translation>
     </message>
     <message>
         <source>Warning: We do not appear to fully agree with our peers! You may need to upgrade, or other nodes may need to upgrade.</source>
@@ -2812,8 +2816,8 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
         <translation>Tenta di recuperare le chiavi private da un wallet.dat corrotto</translation>
     </message>
     <message>
-        <source>Bitcoin Core Daemon</source>
-        <translation>Bitcoin Core Daemon</translation>
+        <source>Zetacoin Core Daemon</source>
+        <translation>Zetacoin Core Daemon</translation>
     </message>
     <message>
         <source>Block creation options:</source>
@@ -2865,11 +2869,11 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>Error initializing block database</source>
-        <translation>Errore durante l'inizializzazione del database dei blocchi</translation>
+        <translation>Errore durante l&apos;inizializzazione del database dei blocchi</translation>
     </message>
     <message>
         <source>Error initializing wallet database environment %s!</source>
-        <translation>Errore durante l'inizializzazione dell'ambiente %s del database del portamonete!</translation>
+        <translation>Errore durante l&apos;inizializzazione dell&apos;ambiente %s del database del portamonete!</translation>
     </message>
     <message>
         <source>Error loading block database</source>
@@ -2893,7 +2897,7 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>Nessuna porta disponibile per l'ascolto. Usa -listen=0 se vuoi procedere comunque.</translation>
+        <translation>Nessuna porta disponibile per l&apos;ascolto. Usa -listen=0 se vuoi procedere comunque.</translation>
     </message>
     <message>
         <source>Failed to read block info</source>
@@ -2905,11 +2909,11 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>Failed to sync block index</source>
-        <translation>Sincronizzazione dell'indice del blocco fallita</translation>
+        <translation>Sincronizzazione dell&apos;indice del blocco fallita</translation>
     </message>
     <message>
         <source>Failed to write block index</source>
-        <translation>Scrittura dell'indice del blocco fallita</translation>
+        <translation>Scrittura dell&apos;indice del blocco fallita</translation>
     </message>
     <message>
         <source>Failed to write block info</source>
@@ -2929,7 +2933,7 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>Failed to write transaction index</source>
-        <translation>Scrittura dell'indice di transazione fallita</translation>
+        <translation>Scrittura dell&apos;indice di transazione fallita</translation>
     </message>
     <message>
         <source>Failed to write undo data</source>
@@ -2953,11 +2957,11 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>Generate coins (default: 0)</source>
-        <translation>Genera Bitcoin (predefinito: 0)</translation>
+        <translation>Genera Zetacoin (predefinito: 0)</translation>
     </message>
     <message>
         <source>How many blocks to check at startup (default: 288, 0 = all)</source>
-        <translation>Numero di blocchi da controllare all'avvio (predefinito: 288, 0 = tutti)</translation>
+        <translation>Numero di blocchi da controllare all&apos;avvio (predefinito: 288, 0 = tutti)</translation>
     </message>
     <message>
         <source>If &lt;category&gt; is not supplied, output all debugging information.</source>
@@ -2972,8 +2976,8 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
         <translation>Blocco genesis non corretto o non trovato. Cartella dati errata?</translation>
     </message>
     <message>
-        <source>Invalid -onion address: '%s'</source>
-        <translation>Indirizzo -onion non valido: '%s'</translation>
+        <source>Invalid -onion address: &apos;%s&apos;</source>
+        <translation>Indirizzo -onion non valido: &apos;%s&apos;</translation>
     </message>
     <message>
         <source>Not enough file descriptors available.</source>
@@ -2981,7 +2985,7 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>Prepend debug output with timestamp (default: 1)</source>
-        <translation>Preponi timestamp all'output di debug (predefinito: 1)</translation>
+        <translation>Preponi timestamp all&apos;output di debug (predefinito: 1)</translation>
     </message>
     <message>
         <source>RPC client options:</source>
@@ -2989,7 +2993,7 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>Rebuild block chain index from current blk000??.dat files</source>
-        <translation>Ricreare l'indice della catena di blocchi dai file blk000??.dat correnti</translation>
+        <translation>Ricreare l&apos;indice della catena di blocchi dai file blk000??.dat correnti</translation>
     </message>
     <message>
         <source>Select SOCKS version for -proxy (4 or 5, default: 5)</source>
@@ -3009,7 +3013,7 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>Specify wallet file (within data directory)</source>
-        <translation>Specifica il file portamonete (all'interno della cartella dati)</translation>
+        <translation>Specifica il file portamonete (all&apos;interno della cartella dati)</translation>
     </message>
     <message>
         <source>Spend unconfirmed change when sending transactions (default: 1)</source>
@@ -3017,11 +3021,11 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>This is intended for regression testing tools and app development.</source>
-        <translation>Questo è previsto per l'uso con test di regressione e per lo sviluppo di applicazioni.</translation>
+        <translation>Questo è previsto per l&apos;uso con test di regressione e per lo sviluppo di applicazioni.</translation>
     </message>
     <message>
-        <source>Usage (deprecated, use bitcoin-cli):</source>
-        <translation>Usage (deprecato, usare bitcoin-cli):</translation>
+        <source>Usage (deprecated, use zetacoin-cli):</source>
+        <translation>Usage (deprecato, usare zetacoin-cli):</translation>
     </message>
     <message>
         <source>Verifying blocks...</source>
@@ -3033,7 +3037,7 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>Wait for RPC server to start</source>
-        <translation>Attendere l'avvio dell'RPC server</translation>
+        <translation>Attendere l&apos;avvio dell&apos;RPC server</translation>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>
@@ -3056,8 +3060,8 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
         <translation>Importa blocchi da un file blk000??.dat esterno</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
-        <translation>Non è possibile ottenere un lock sulla cartella %s. Probabilmente Bitcoin Core è già in esecuzione.</translation>
+        <source>Cannot obtain a lock on data directory %s. Zetacoin Core is probably already running.</source>
+        <translation>Non è possibile ottenere un lock sulla cartella %s. Probabilmente Zetacoin Core è già in esecuzione.</translation>
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
@@ -3076,12 +3080,12 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
         <translation>Informazioni</translation>
     </message>
     <message>
-        <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</source>
-        <translation>Importo non valido per -minrelaytxfee=&lt;amount&gt;: '%s'</translation>
+        <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
+        <translation>Importo non valido per -minrelaytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
-        <source>Invalid amount for -mintxfee=&lt;amount&gt;: '%s'</source>
-        <translation>Importo non valido per -mintxfee=&lt;amount&gt;: '%s'</translation>
+        <source>Invalid amount for -mintxfee=&lt;amount&gt;: &apos;%s&apos;</source>
+        <translation>Importo non valido per -mintxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <source>Limit size of signature cache to &lt;n&gt; entries (default: 50000)</source>
@@ -3113,15 +3117,15 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>Print block on startup, if found in block index</source>
-        <translation>Stampa il blocco all'avvio, se presente nell'indice dei blocchi</translation>
+        <translation>Stampa il blocco all&apos;avvio, se presente nell&apos;indice dei blocchi</translation>
     </message>
     <message>
         <source>Print block tree on startup (default: 0)</source>
-        <translation>Stampa l'albero dei blocchi all'avvio (default: 0)</translation>
+        <translation>Stampa l&apos;albero dei blocchi all&apos;avvio (default: 0)</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>Opzioni RPC SSL: (consulta la Bitcoin Wiki per le istruzioni relative alla configurazione SSL)</translation>
+        <source>RPC SSL options: (see the Zetacoin Wiki for SSL setup instructions)</source>
+        <translation>Opzioni RPC SSL: (consulta la Zetacoin Wiki per le istruzioni relative alla configurazione SSL)</translation>
     </message>
     <message>
         <source>RPC server options:</source>
@@ -3140,12 +3144,12 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
         <translation>Mantieni in esecuzione un thread per scaricare periodicamente il portafoglio (predefinito: 1)</translation>
     </message>
     <message>
-        <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>Opzioni SSL: (vedi il wiki di Bitcoin per le istruzioni di configurazione SSL)</translation>
+        <source>SSL options: (see the Zetacoin Wiki for SSL setup instructions)</source>
+        <translation>Opzioni SSL: (vedi il wiki di Zetacoin per le istruzioni di configurazione SSL)</translation>
     </message>
     <message>
-        <source>Send command to Bitcoin Core</source>
-        <translation>Invia comando a Bitcoin Core</translation>
+        <source>Send command to Zetacoin Core</source>
+        <translation>Invia comando a Zetacoin Core</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -3157,7 +3161,7 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>Sets the DB_PRIVATE flag in the wallet db environment (default: 1)</source>
-        <translation>Imposta il flag DB_PRIVATE nell'ambiente di database del portamonete (predefinito: 1)</translation>
+        <translation>Imposta il flag DB_PRIVATE nell&apos;ambiente di database del portamonete (predefinito: 1)</translation>
     </message>
     <message>
         <source>Show all debugging options (usage: --help -help-debug)</source>
@@ -3169,7 +3173,7 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-        <translation>Riduci il file debug.log all'avvio del client (predefinito: 1 se non impostato -debug)</translation>
+        <translation>Riduci il file debug.log all&apos;avvio del client (predefinito: 1 se non impostato -debug)</translation>
     </message>
     <message>
         <source>Signing transaction failed</source>
@@ -3180,8 +3184,8 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
         <translation>Specifica il timeout di connessione in millisecondi (predefinito: 5000)</translation>
     </message>
     <message>
-        <source>Start Bitcoin Core Daemon</source>
-        <translation>Avvia Bitcoin Core Daemon</translation>
+        <source>Start Zetacoin Core Daemon</source>
+        <translation>Avvia Zetacoin Core Daemon</translation>
     </message>
     <message>
         <source>System error: </source>
@@ -3193,7 +3197,7 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>Transaction amounts must be positive</source>
-        <translation>L'importo della transazione deve essere positivo</translation>
+        <translation>L&apos;importo della transazione deve essere positivo</translation>
     </message>
     <message>
         <source>Transaction too large</source>
@@ -3226,7 +3230,7 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>on startup</source>
-        <translation>all'avvio</translation>
+        <translation>all&apos;avvio</translation>
     </message>
     <message>
         <source>version</source>
@@ -3243,7 +3247,7 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>Allow JSON-RPC connections from specified IP address</source>
-        <translation>Consenti connessioni JSON-RPC dall'indirizzo IP specificato
+        <translation>Consenti connessioni JSON-RPC dall&apos;indirizzo IP specificato
 </translation>
     </message>
     <message>
@@ -3252,11 +3256,11 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>Esegui il comando quando il migliore blocco cambia(%s nel cmd è sostituito dall'hash del blocco)</translation>
+        <translation>Esegui il comando quando il migliore blocco cambia(%s nel cmd è sostituito dall&apos;hash del blocco)</translation>
     </message>
     <message>
         <source>Upgrade wallet to latest format</source>
-        <translation>Aggiorna il wallet all'ultimo formato</translation>
+        <translation>Aggiorna il wallet all&apos;ultimo formato</translation>
     </message>
     <message>
         <source>Set key pool size to &lt;n&gt; (default: 100)</source>
@@ -3302,40 +3306,40 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
         <translation>Errore caricamento wallet.dat: Portamonete corrotto</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin</source>
-        <translation>Errore caricamento wallet.dat: il portamonete richiede una versione di Bitcoin più recente</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Zetacoin</source>
+        <translation>Errore caricamento wallet.dat: il portamonete richiede una versione di Zetacoin più recente</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin to complete</source>
-        <translation>Il portamonete necessitava di essere riscritto: riavviare Bitcoin per completare</translation>
+        <source>Wallet needed to be rewritten: restart Zetacoin to complete</source>
+        <translation>Il portamonete necessitava di essere riscritto: riavviare Zetacoin per completare</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>
         <translation>Errore caricamento wallet.dat</translation>
     </message>
     <message>
-        <source>Invalid -proxy address: '%s'</source>
-        <translation>Indirizzo -proxy non valido: '%s'</translation>
+        <source>Invalid -proxy address: &apos;%s&apos;</source>
+        <translation>Indirizzo -proxy non valido: &apos;%s&apos;</translation>
     </message>
     <message>
-        <source>Unknown network specified in -onlynet: '%s'</source>
-        <translation>Rete sconosciuta specificata in -onlynet: '%s'</translation>
+        <source>Unknown network specified in -onlynet: &apos;%s&apos;</source>
+        <translation>Rete sconosciuta specificata in -onlynet: &apos;%s&apos;</translation>
     </message>
     <message>
         <source>Unknown -socks proxy version requested: %i</source>
         <translation>Versione -socks proxy sconosciuta richiesta: %i</translation>
     </message>
     <message>
-        <source>Cannot resolve -bind address: '%s'</source>
-        <translation>Impossibile risolvere -bind address: '%s'</translation>
+        <source>Cannot resolve -bind address: &apos;%s&apos;</source>
+        <translation>Impossibile risolvere -bind address: &apos;%s&apos;</translation>
     </message>
     <message>
-        <source>Cannot resolve -externalip address: '%s'</source>
-        <translation>Impossibile risolvere indirizzo -externalip: '%s'</translation>
+        <source>Cannot resolve -externalip address: &apos;%s&apos;</source>
+        <translation>Impossibile risolvere indirizzo -externalip: &apos;%s&apos;</translation>
     </message>
     <message>
-        <source>Invalid amount for -paytxfee=&lt;amount&gt;: '%s'</source>
-        <translation>Importo non valido per -paytxfee=&lt;amount&gt;: '%s'</translation>
+        <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
+        <translation>Importo non valido per -paytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <source>Invalid amount</source>
@@ -3347,7 +3351,7 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>Loading block index...</source>
-        <translation>Caricamento dell'indice del blocco...</translation>
+        <translation>Caricamento dell&apos;indice del blocco...</translation>
     </message>
     <message>
         <source>Add a node to connect to and attempt to keep the connection open</source>
@@ -3363,7 +3367,7 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>Cannot write default address</source>
-        <translation>Non è possibile scrivere l'indirizzo predefinito</translation>
+        <translation>Non è possibile scrivere l&apos;indirizzo predefinito</translation>
     </message>
     <message>
         <source>Rescanning...</source>
@@ -3375,7 +3379,7 @@ ad esempio: alertnotify=echo %%s | mail -s "Allarme Bitcoin" admin@foo.com
     </message>
     <message>
         <source>To use the %s option</source>
-        <translation>Per usare l'opzione %s</translation>
+        <translation>Per usare l&apos;opzione %s</translation>
     </message>
     <message>
         <source>Error</source>
